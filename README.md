@@ -1,2 +1,2 @@
 # kawhalen.github.io
-My Micro.blog Archive
+Micro.blog Archive
