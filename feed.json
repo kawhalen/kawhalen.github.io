@@ -7,16 +7,33 @@
 	"items": [
 		
 			{
-				"id": "http://kawhalen.micro.blog/2021/08/27/another-one-of.html",
+				"id": "http://kevinwhalen.micro.blog/2021/09/27/the-manningcast-is.html",
 				
-				"content_html": "<p>Another one of my favorites.</p>\n\n<p><img src=\"uploads/2021/b541959d6c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Another one of my favorites. \n\n<img src=\"uploads/2021/b541959d6c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The ManningCast is the best thing on Monday Night Football in years.</p>\n",
+				"content_text": "The ManningCast is the best thing on Monday Night Football in years.\n",
+				"date_published": "2021-09-27T22:02:55-04:00",
+				"url": "https://www.whalen.org/2021/09/27/the-manningcast-is.html"
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2021/09/10/084250.html",
+				
+				"content_html": "<p><img src=\"https://www.whalen.org/uploads/2021/f8dc1eba70.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/f8dc1eba70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-10T08:42:50-04:00",
+				"url": "https://www.whalen.org/2021/09/10/084250.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2021/08/27/another-one-of.html",
+				
+				"content_html": "<p>Another one of my favorites.</p>\n\n<p><img src=\"https://www.whalen.org/uploads/2021/b541959d6c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Another one of my favorites. \n\n<img src=\"https://www.whalen.org/uploads/2021/b541959d6c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-27T12:48:51-04:00",
 				"url": "https://www.whalen.org/2021/08/27/another-one-of.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2021/08/13/nice-writeup-on.html",
+				"id": "http://kevinwhalen.micro.blog/2021/08/13/nice-writeup-on.html",
 				
 				"content_html": "<p>Nice <a href=\"https://sixcolors.com/post/2021/08/not-important-enough-1password-abandons-its-native-mac-app/\">writeup</a> on the 1Password 8 Mac Preview kerfuffle.</p>\n",
 				"content_text": "Nice [writeup](https://sixcolors.com/post/2021/08/not-important-enough-1password-abandons-its-native-mac-app/) on the 1Password 8 Mac Preview kerfuffle.\n",
@@ -24,16 +41,16 @@
 				"url": "https://www.whalen.org/2021/08/13/nice-writeup-on.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2021/08/09/i-love-this.html",
+				"id": "http://kevinwhalen.micro.blog/2021/08/09/i-love-this.html",
 				
-				"content_html": "<p>I love this picture of these two.</p>\n\n<p><img src=\"uploads/2021/0622e54ca0.jpg\" width=\"448\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I love this picture of these two.\n\n<img src=\"uploads/2021/0622e54ca0.jpg\" width=\"448\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I love this picture of these two.</p>\n\n<p><img src=\"https://www.whalen.org/uploads/2021/0622e54ca0.jpg\" width=\"448\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I love this picture of these two.\n\n<img src=\"https://www.whalen.org/uploads/2021/0622e54ca0.jpg\" width=\"448\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-09T23:29:00-04:00",
 				"url": "https://www.whalen.org/2021/08/09/i-love-this.html",
 				"tags": ["Photos"]
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2021/01/07/what-happened-yesterday.html",
+				"id": "http://kevinwhalen.micro.blog/2021/01/07/what-happened-yesterday.html",
 				
 				"content_html": "<p>What happened yesterday is a national disgrace for which the ramifications will be felt for years. Trump needs to get on TV and officially CONCEDE now. None of this election stolen nonsense.</p>\n",
 				"content_text": "What happened yesterday is a national disgrace for which the ramifications will be felt for years. Trump needs to get on TV and officially CONCEDE now. None of this election stolen nonsense. \n",
@@ -41,7 +58,7 @@
 				"url": "https://www.whalen.org/2021/01/07/what-happened-yesterday.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/12/27/this-much-is.html",
+				"id": "http://kevinwhalen.micro.blog/2020/12/27/this-much-is.html",
 				
 				"content_html": "<p>This much is clear. The Giants aren’t going to win under Dave Gettleman.  🏈</p>\n",
 				"content_text": "This much is clear. The Giants aren’t going to win under Dave Gettleman.  🏈\n",
@@ -49,7 +66,7 @@
 				"url": "https://www.whalen.org/2020/12/27/this-much-is.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/12/24/its-time-for.html",
+				"id": "http://kevinwhalen.micro.blog/2020/12/24/its-time-for.html",
 				
 				"content_html": "<p>It&rsquo;s time for <a href=\"https://tv.youtube.com/browse/UCeyq8hkjXpzmYOdHfgTvQNQ\">It&rsquo;s a Wonderful Life</a>.</p>\n",
 				"content_text": "It's time for [It's a Wonderful Life](https://tv.youtube.com/browse/UCeyq8hkjXpzmYOdHfgTvQNQ).\n",
@@ -57,7 +74,7 @@
 				"url": "https://www.whalen.org/2020/12/24/its-time-for.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/12/18/luke-skywalker.html",
+				"id": "http://kevinwhalen.micro.blog/2020/12/18/luke-skywalker.html",
 				
 				"content_html": "<p>Luke Skywalker!!</p>\n",
 				"content_text": "Luke Skywalker!!\n",
@@ -65,7 +82,7 @@
 				"url": "https://www.whalen.org/2020/12/18/luke-skywalker.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/12/13/giants-come-back.html",
+				"id": "http://kevinwhalen.micro.blog/2020/12/13/giants-come-back.html",
 				
 				"content_html": "<p>Giants come back down to earth. Daniel Jones was absolutely terrible. 🏈</p>\n",
 				"content_text": "Giants come back down to earth. Daniel Jones was absolutely terrible. 🏈\n",
@@ -73,7 +90,7 @@
 				"url": "https://www.whalen.org/2020/12/13/giants-come-back.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/12/06/giants-win.html",
+				"id": "http://kevinwhalen.micro.blog/2020/12/06/giants-win.html",
 				
 				"content_html": "<p>Giants win! 🏈</p>\n",
 				"content_text": "Giants win! 🏈\n",
@@ -81,7 +98,7 @@
 				"url": "https://www.whalen.org/2020/12/06/giants-win.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/08/13/fortnites-nineteen-eightyfortnite.html",
+				"id": "http://kevinwhalen.micro.blog/2020/08/13/fortnites-nineteen-eightyfortnite.html",
 				
 				"content_html": "<p>Fortnite&rsquo;s <a href=\"https://www.youtube.com/watch?v=N6B4glqJFz0\">Nineteen Eighty-Fortnite livestream</a> on YouTube is pretty funny.</p>\n",
 				"content_text": "Fortnite's [Nineteen Eighty-Fortnite livestream](https://www.youtube.com/watch?v=N6B4glqJFz0) on YouTube is pretty funny.\n",
@@ -89,7 +106,7 @@
 				"url": "https://www.whalen.org/2020/08/13/fortnites-nineteen-eightyfortnite.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/05/12/hes-gone.html",
+				"id": "http://kevinwhalen.micro.blog/2020/05/12/hes-gone.html",
 				"title": "He’s gone",
 				"content_html": "<p>Originally posted on 5/12/2016:</p>\n\n<p>I share this for my Mom, RIP.</p>\n\n<p>It was 10 years ago tonight, an hour or so before midnight. It started with a frantic call and would end with just two words.</p>\n\n<p>My phone rang. It was my brother Jimmy. Immediately I could hear the fear and desperation in his voice, asking when I had last talked with Mom. I had spoken to her several hours earlier. Part of me already knew. There is something wrong with Bobby. Mom woke up and found him laying on the living room floor. He is not moving or breathing. I heard his words but was in complete shock and disbelief. This was not happening.</p>\n\n<p>I hung up with Jimmy and tried desperately to call my Mom. My Dad was already in route, as were other family members, to my Mom’s place. Being in VA while this was going on up in NY, I felt completely helpless. I eventually got word paramedics were already there trying to revive Bobby, while my poor Mom waited outside with others. This, a day or so before Mothers Day, would forever devastate my Mom to the day she died.</p>\n\n<p>By this time I had woken Kelly who came downstairs completely confused as to why I was being so loud. I was numb and frantic at the same time. I just turned and repeatedly yelled that there is something wrong with my brother. There is something seriously wrong with Bobby. Endless minutes would pass not knowing, struggling to comprehend that this was happening. My mind then went to that place, and has ever since, where I asked myself why the hell didn’t I talk to Bobby when he walked through the door while I was on the phone with my Mom hours earlier. Just a few words may have mattered. I knew then I should have.</p>\n\n<p>Eventually my phone would ring again. I could see that it was my Dad. I answered the phone and could hardly get the words out, dreading what he was going to say. All I could manage in a cracked voice was… Dad? Just hoping that he could somehow make it right. At that moment, time seemed to stop. At the corner of my eye I could see myself through Kelly’s eyes as she watched my devastation as I heard my Dad’s words. Raising her hand to her mouth.</p>\n\n<p>Two words…</p>\n\n<p>He’s gone.</p>\n",
 				"content_text": "Originally posted on 5/12/2016:\n\nI share this for my Mom, RIP.\n\nIt was 10 years ago tonight, an hour or so before midnight. It started with a frantic call and would end with just two words.\n\nMy phone rang. It was my brother Jimmy. Immediately I could hear the fear and desperation in his voice, asking when I had last talked with Mom. I had spoken to her several hours earlier. Part of me already knew. There is something wrong with Bobby. Mom woke up and found him laying on the living room floor. He is not moving or breathing. I heard his words but was in complete shock and disbelief. This was not happening.\n\nI hung up with Jimmy and tried desperately to call my Mom. My Dad was already in route, as were other family members, to my Mom’s place. Being in VA while this was going on up in NY, I felt completely helpless. I eventually got word paramedics were already there trying to revive Bobby, while my poor Mom waited outside with others. This, a day or so before Mothers Day, would forever devastate my Mom to the day she died.\n\nBy this time I had woken Kelly who came downstairs completely confused as to why I was being so loud. I was numb and frantic at the same time. I just turned and repeatedly yelled that there is something wrong with my brother. There is something seriously wrong with Bobby. Endless minutes would pass not knowing, struggling to comprehend that this was happening. My mind then went to that place, and has ever since, where I asked myself why the hell didn’t I talk to Bobby when he walked through the door while I was on the phone with my Mom hours earlier. Just a few words may have mattered. I knew then I should have.\n\nEventually my phone would ring again. I could see that it was my Dad. I answered the phone and could hardly get the words out, dreading what he was going to say. All I could manage in a cracked voice was… Dad? Just hoping that he could somehow make it right. At that moment, time seemed to stop. At the corner of my eye I could see myself through Kelly’s eyes as she watched my devastation as I heard my Dad’s words. Raising her hand to her mouth.\n\nTwo words…\n\nHe’s gone.\n",
@@ -97,7 +114,7 @@
 				"url": "https://www.whalen.org/2020/05/12/hes-gone.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/04/23/nfl-draft-time.html",
+				"id": "http://kevinwhalen.micro.blog/2020/04/23/nfl-draft-time.html",
 				
 				"content_html": "<p>NFL Draft time!! 🏈</p>\n",
 				"content_text": "NFL Draft time!! 🏈\n",
@@ -105,7 +122,7 @@
 				"url": "https://www.whalen.org/2020/04/23/nfl-draft-time.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/02/11/miss-you-little.html",
+				"id": "http://kevinwhalen.micro.blog/2020/02/11/miss-you-little.html",
 				
 				"content_html": "<p>Miss you little brother. #41</p>\n",
 				"content_text": "Miss you little brother. #41\n",
@@ -113,7 +130,7 @@
 				"url": "https://www.whalen.org/2020/02/11/miss-you-little.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/02/02/this-has-been.html",
+				"id": "http://kevinwhalen.micro.blog/2020/02/02/this-has-been.html",
 				
 				"content_html": "<p>This has been long deserved for Andy Reid. #SuperBowl</p>\n",
 				"content_text": "This has been long deserved for Andy Reid. #SuperBowl\n",
@@ -121,7 +138,7 @@
 				"url": "https://www.whalen.org/2020/02/02/this-has-been.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2020/01/19/this-should-be.html",
+				"id": "http://kevinwhalen.micro.blog/2020/01/19/this-should-be.html",
 				
 				"content_html": "<p>This should be a good Super Bowl. #Chiefs #Niners</p>\n",
 				"content_text": "This should be a good Super Bowl. #Chiefs #Niners\n",
@@ -129,7 +146,7 @@
 				"url": "https://www.whalen.org/2020/01/19/this-should-be.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/12/02/testing-the-brydge.html",
+				"id": "http://kevinwhalen.micro.blog/2019/12/02/testing-the-brydge.html",
 				
 				"content_html": "<p>Testing the Brydge Pro keyboard for iPad Pro 12.9 (Black Friday deal). It’s amazing so far! This and a new wireless mouse takes the iPad to a whole new level.</p>\n",
 				"content_text": "Testing the Brydge Pro keyboard for iPad Pro 12.9 (Black Friday deal). It’s amazing so far! This and a new wireless mouse takes the iPad to a whole new level.\n",
@@ -137,7 +154,7 @@
 				"url": "https://www.whalen.org/2019/12/02/testing-the-brydge.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/11/12/the-mandalorian-is.html",
+				"id": "http://kevinwhalen.micro.blog/2019/11/12/the-mandalorian-is.html",
 				
 				"content_html": "<p>The Mandalorian is an epic win!</p>\n",
 				"content_text": "The Mandalorian is an epic win! \n",
@@ -145,7 +162,7 @@
 				"url": "https://www.whalen.org/2019/11/12/the-mandalorian-is.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/11/04/the-giants-need.html",
+				"id": "http://kevinwhalen.micro.blog/2019/11/04/the-giants-need.html",
 				
 				"content_html": "<p>The Giants need to go back to these 80’s helmets. 🏈</p>\n",
 				"content_text": "The Giants need to go back to these 80’s helmets. 🏈\n",
@@ -153,7 +170,7 @@
 				"url": "https://www.whalen.org/2019/11/04/the-giants-need.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/11/03/adam-gase-shouldnt.html",
+				"id": "http://kevinwhalen.micro.blog/2019/11/03/adam-gase-shouldnt.html",
 				
 				"content_html": "<p>Adam Gase shouldn’t be allowed on the plane back to NY. 🏈</p>\n",
 				"content_text": "Adam Gase shouldn’t be allowed on the plane back to NY. 🏈\n",
@@ -161,7 +178,7 @@
 				"url": "https://www.whalen.org/2019/11/03/adam-gase-shouldnt.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/10/21/taking-one-last.html",
+				"id": "http://kevinwhalen.micro.blog/2019/10/21/taking-one-last.html",
 				
 				"content_html": "<p><a href=\"https://youtu.be/8Qn_spdM5Zg\">Taking one last look sir&hellip; at my friends</a></p>\n",
 				"content_text": "[Taking one last look sir... at my friends](https://youtu.be/8Qn_spdM5Zg)\n",
@@ -169,7 +186,7 @@
 				"url": "https://www.whalen.org/2019/10/21/taking-one-last.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/10/12/yankees.html",
+				"id": "http://kevinwhalen.micro.blog/2019/10/12/yankees.html",
 				
 				"content_html": "<p>Yankees!!</p>\n",
 				"content_text": "Yankees!!\n",
@@ -177,7 +194,7 @@
 				"url": "https://www.whalen.org/2019/10/12/yankees.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/29/daniel-jones-dwayne.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/29/daniel-jones-dwayne.html",
 				
 				"content_html": "<p>Daniel Jones &gt; Dwayne Haskins. 🏈</p>\n",
 				"content_text": "Daniel Jones > Dwayne Haskins. 🏈\n",
@@ -185,7 +202,7 @@
 				"url": "https://www.whalen.org/2019/09/29/daniel-jones-dwayne.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/22/daniel-jones.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/22/daniel-jones.html",
 				
 				"content_html": "<p>Daniel Jones!!!! 🏈</p>\n",
 				"content_text": "Daniel Jones!!!! 🏈\n",
@@ -193,7 +210,7 @@
 				"url": "https://www.whalen.org/2019/09/22/daniel-jones.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/17/the-eli-manning.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/17/the-eli-manning.html",
 				
 				"content_html": "<p>The Eli Manning era is over. They finallly hand the ball to <a href=\"https://twitter.com/Giants/status/1173962105340551168\">Daniel Jones</a>. 🏈</p>\n",
 				"content_text": "The Eli Manning era is over. They finallly hand the ball to [Daniel Jones](https://twitter.com/Giants/status/1173962105340551168). 🏈\n",
@@ -201,7 +218,7 @@
 				"url": "https://www.whalen.org/2019/09/17/the-eli-manning.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/17/i-love-eli.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/17/i-love-eli.html",
 				
 				"content_html": "<p>I love Eli Manning. But it’s time that the NY Giants franchise start building for the future. Start Daniel Jones. #rebuild 🏈</p>\n",
 				"content_text": "I love Eli Manning. But it’s time that the NY Giants franchise start building for the future. Start Daniel Jones. #rebuild 🏈\n",
@@ -209,7 +226,7 @@
 				"url": "https://www.whalen.org/2019/09/17/i-love-eli.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/16/apple-arcade-is.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/16/apple-arcade-is.html",
 				
 				"content_html": "<p>Apple Arcade is here.</p>\n",
 				"content_text": "Apple Arcade is here.\n",
@@ -217,7 +234,7 @@
 				"url": "https://www.whalen.org/2019/09/16/apple-arcade-is.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/15/it-is-absolutely.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/15/it-is-absolutely.html",
 				
 				"content_html": "<p>It is absolutely imperative that Daniel Jones starts for the N.Y. Giants. This is a bad team with no shot of making the playoffs. Let the rookie get playing experience for next year. 🏈</p>\n",
 				"content_text": "It is absolutely imperative that Daniel Jones starts for the N.Y. Giants. This is a bad team with no shot of making the playoffs. Let the rookie get playing experience for next year. 🏈\n",
@@ -225,7 +242,7 @@
 				"url": "https://www.whalen.org/2019/09/15/it-is-absolutely.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/13/down-lbs.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/13/down-lbs.html",
 				
 				"content_html": "<p>Down 95lbs. 💪</p>\n",
 				"content_text": "Down 95lbs. 💪\n",
@@ -233,7 +250,7 @@
 				"url": "https://www.whalen.org/2019/09/13/down-lbs.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/13/went-with-iphone.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/13/went-with-iphone.html",
 				
 				"content_html": "<p>Went with iPhone 11 Pro, 256 GB, Silver.</p>\n",
 				"content_text": "Went with iPhone 11 Pro, 256 GB, Silver. \n",
@@ -241,7 +258,7 @@
 				"url": "https://www.whalen.org/2019/09/13/went-with-iphone.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/10/im-in-iphone.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/10/im-in-iphone.html",
 				
 				"content_html": "<p>I’m in the iPhone Upgrade program and have the iPhone XS Max. Seriously considering only upgrading to the 11 and skipping the Pro’s.</p>\n",
 				"content_text": "I’m in the iPhone Upgrade program and have the iPhone XS Max. Seriously considering only upgrading to the 11 and skipping the Pro’s. \n",
@@ -249,7 +266,7 @@
 				"url": "https://www.whalen.org/2019/09/10/im-in-iphone.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/08/lets-go-giants.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/08/lets-go-giants.html",
 				
 				"content_html": "<p>Let’s go Giants!!! TD!!! 🏈</p>\n",
 				"content_text": "Let’s go Giants!!! TD!!! 🏈\n",
@@ -257,7 +274,7 @@
 				"url": "https://www.whalen.org/2019/09/08/lets-go-giants.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/08/time-for-some.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/08/time-for-some.html",
 				
 				"content_html": "<p>Time for some NFL Redzone goodness! 🏈</p>\n",
 				"content_text": "Time for some NFL Redzone goodness! 🏈\n",
@@ -265,7 +282,7 @@
 				"url": "https://www.whalen.org/2019/09/08/time-for-some.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/09/07/time-to-see.html",
+				"id": "http://kevinwhalen.micro.blog/2019/09/07/time-to-see.html",
 				
 				"content_html": "<p>Time to see IT Chapter 2.</p>\n",
 				"content_text": "Time to see IT Chapter 2. \n",
@@ -273,7 +290,7 @@
 				"url": "https://www.whalen.org/2019/09/07/time-to-see.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/08/29/finally-installed-the.html",
+				"id": "http://kevinwhalen.micro.blog/2019/08/29/finally-installed-the.html",
 				
 				"content_html": "<p>Finally installed the public iOS 13 beta on iPhone and iPad. So far so good.</p>\n",
 				"content_text": "Finally installed the public iOS 13 beta on iPhone and iPad. So far so good. \n",
@@ -281,7 +298,7 @@
 				"url": "https://www.whalen.org/2019/08/29/finally-installed-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/08/26/new-trailer-to.html",
+				"id": "http://kevinwhalen.micro.blog/2019/08/26/new-trailer-to.html",
 				
 				"content_html": "<p>New <a href=\"https://youtu.be/3n1T3HxHd7Y\">trailer</a> for the The Rise Of Skywalker!</p>\n",
 				"content_text": "New [trailer](https://youtu.be/3n1T3HxHd7Y) for the The Rise Of Skywalker!\n",
@@ -289,7 +306,7 @@
 				"url": "https://www.whalen.org/2019/08/26/new-trailer-to.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/08/24/wow-andrew-luck.html",
+				"id": "http://kevinwhalen.micro.blog/2019/08/24/wow-andrew-luck.html",
 				
 				"content_html": "<p>Wow! Andrew Luck is <a href=\"@AdamSchefter: Filed to ESPN: Andrew Luck has informed the Colts he is retiring from the NFL, per source. There will be a press conference Sunday to make it official, but Luck is mentally worn down, and now checking out.\">retiring</a>! 🏈</p>\n",
 				"content_text": "Wow! Andrew Luck is [retiring](@AdamSchefter: Filed to ESPN: Andrew Luck has informed the Colts he is retiring from the NFL, per source. There will be a press conference Sunday to make it official, but Luck is mentally worn down, and now checking out.)! 🏈\n",
@@ -297,7 +314,7 @@
 				"url": "https://www.whalen.org/2019/08/24/wow-andrew-luck.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/08/24/wow-the-mandalorian.html",
+				"id": "http://kevinwhalen.micro.blog/2019/08/24/wow-the-mandalorian.html",
 				
 				"content_html": "<p>Wow! The <a href=\"https://youtu.be/aOC8E8z_ifw\">Mandalorian</a> looks awesome!</p>\n",
 				"content_text": "Wow! The [Mandalorian](https://youtu.be/aOC8E8z_ifw) looks awesome!\n",
@@ -305,7 +322,7 @@
 				"url": "https://www.whalen.org/2019/08/24/wow-the-mandalorian.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/08/23/another-great-performance.html",
+				"id": "http://kevinwhalen.micro.blog/2019/08/23/another-great-performance.html",
 				
 				"content_html": "<p>Another great performance by Daniel Jones. The future is here N.Y. Giants. Just start the the kid. 🏈</p>\n",
 				"content_text": "Another great performance by Daniel Jones. The future is here N.Y. Giants. Just start the the kid. 🏈\n",
@@ -313,7 +330,7 @@
 				"url": "https://www.whalen.org/2019/08/23/another-great-performance.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/08/09/great-start-for.html",
+				"id": "http://kevinwhalen.micro.blog/2019/08/09/great-start-for.html",
 				
 				"content_html": "<p>Great <a href=\"https://youtu.be/rZOOSuJHItw\">start</a> for Daniel Jones! 🏈</p>\n",
 				"content_text": "Great [start](https://youtu.be/rZOOSuJHItw) for Daniel Jones! 🏈\n",
@@ -321,7 +338,7 @@
 				"url": "https://www.whalen.org/2019/08/09/great-start-for.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/08/01/i-agree-daniel.html",
+				"id": "http://kevinwhalen.micro.blog/2019/08/01/i-agree-daniel.html",
 				
 				"content_html": "<p>I agree. <a href=\"https://www.sny.tv/giants/news/nfl-sources-say-giants-selection-of-daniel-jones-was-well-received-within-league-circles/309595212\">Daniel Jones</a> would not have made it to 17. And he was high on many draft boards. 🏈</p>\n",
 				"content_text": "I agree. [Daniel Jones](https://www.sny.tv/giants/news/nfl-sources-say-giants-selection-of-daniel-jones-was-well-received-within-league-circles/309595212) would not have made it to 17. And he was high on many draft boards. 🏈\n",
@@ -329,7 +346,7 @@
 				"url": "https://www.whalen.org/2019/08/01/i-agree-daniel.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/07/25/someone-got-teeth.html",
+				"id": "http://kevinwhalen.micro.blog/2019/07/25/someone-got-teeth.html",
 				
 				"content_html": "<p>Someone got 2 teeth pulled today!</p>\n",
 				"content_text": "Someone got 2 teeth pulled today!\n",
@@ -337,7 +354,7 @@
 				"url": "https://www.whalen.org/2019/07/25/someone-got-teeth.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/07/25/muellers-testimony-yesterday.html",
+				"id": "http://kevinwhalen.micro.blog/2019/07/25/muellers-testimony-yesterday.html",
 				
 				"content_html": "<p><a href=\"https://time.com/5635276/mueller-testimony-obstruction-conspiracy-analysis/\">“Mueller’s testimony</a> yesterday highlighted the connection between obstruction and collusion. When he discussed his decision not to indict a conspiracy, he did not characterize it as one made because there was no evidence. It was because he did not have sufficient evidence – in other words, enough evidence to prove guilt beyond a reasonable doubt. There was plenty of evidence of connection between the campaign and Russia, ranging from shared internal polling data to Trump’s request that Russia find Hillary Clinton’s emails to the appearance of the top tier of Trump’s campaign team at a meeting explicitly requested so the Russian government could provide election help to “Mr. Trump.” Mueller had plenty of smoke, but he lacked a smoking gun.”</p>\n",
 				"content_text": "[“Mueller’s testimony](https://time.com/5635276/mueller-testimony-obstruction-conspiracy-analysis/) yesterday highlighted the connection between obstruction and collusion. When he discussed his decision not to indict a conspiracy, he did not characterize it as one made because there was no evidence. It was because he did not have sufficient evidence – in other words, enough evidence to prove guilt beyond a reasonable doubt. There was plenty of evidence of connection between the campaign and Russia, ranging from shared internal polling data to Trump’s request that Russia find Hillary Clinton’s emails to the appearance of the top tier of Trump’s campaign team at a meeting explicitly requested so the Russian government could provide election help to “Mr. Trump.” Mueller had plenty of smoke, but he lacked a smoking gun.”\n",
@@ -345,7 +362,7 @@
 				"url": "https://www.whalen.org/2019/07/25/muellers-testimony-yesterday.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/07/19/down-lbs.html",
+				"id": "http://kevinwhalen.micro.blog/2019/07/19/down-lbs.html",
 				
 				"content_html": "<p>Down 90 lbs. 💪</p>\n",
 				"content_text": "Down 90 lbs. 💪\n",
@@ -353,7 +370,7 @@
 				"url": "https://www.whalen.org/2019/07/19/down-lbs.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/06/23/happy-th-birthday.html",
+				"id": "http://kevinwhalen.micro.blog/2019/06/23/happy-th-birthday.html",
 				
 				"content_html": "<p>Happy 14th Birthday Jack!</p>\n",
 				"content_text": "Happy 14th Birthday Jack!\n",
@@ -361,7 +378,7 @@
 				"url": "https://www.whalen.org/2019/06/23/happy-th-birthday.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/06/15/daniel-jones-is.html",
+				"id": "http://kevinwhalen.micro.blog/2019/06/15/daniel-jones-is.html",
 				
 				"content_html": "<p>Daniel Jones is <a href=\"https://youtu.be/VrNQ1MxDkcY\">legit</a>. He will prove the skeptics wrong. 🏈</p>\n",
 				"content_text": "Daniel Jones is [legit](https://youtu.be/VrNQ1MxDkcY). He will prove the skeptics wrong. 🏈\n",
@@ -369,7 +386,7 @@
 				"url": "https://www.whalen.org/2019/06/15/daniel-jones-is.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/06/05/jack-heading-to.html",
+				"id": "http://kevinwhalen.micro.blog/2019/06/05/jack-heading-to.html",
 				
 				"content_html": "<p>Jack heading to his first formal!</p>\n",
 				"content_text": "Jack heading to his first formal!\n",
@@ -377,7 +394,7 @@
 				"url": "https://www.whalen.org/2019/06/05/jack-heading-to.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/06/04/officially-down-lbs.html",
+				"id": "http://kevinwhalen.micro.blog/2019/06/04/officially-down-lbs.html",
 				
 				"content_html": "<p>Officially down 80 lbs. 💪</p>\n",
 				"content_text": "Officially down 80 lbs. 💪\n",
@@ -385,7 +402,7 @@
 				"url": "https://www.whalen.org/2019/06/04/officially-down-lbs.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/06/03/im-really-loving.html",
+				"id": "http://kevinwhalen.micro.blog/2019/06/03/im-really-loving.html",
 				
 				"content_html": "<p>I’m really loving my decision to get an iPad Pro instead of MacBook Air. #WWDC19</p>\n",
 				"content_text": "I’m really loving my decision to get an iPad Pro instead of MacBook Air. #WWDC19\n",
@@ -393,7 +410,7 @@
 				"url": "https://www.whalen.org/2019/06/03/im-really-loving.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/05/12/hes-gone.html",
+				"id": "http://kevinwhalen.micro.blog/2019/05/12/hes-gone.html",
 				"title": "He’s Gone",
 				"content_html": "<p>Originally posted on 5/12/2016:</p>\n\n<p>I share this for my Mom, RIP.</p>\n\n<p>It was 10 years ago tonight, an hour or so before midnight. It started with a frantic call and would end with just two words.</p>\n\n<p>My phone rang. It was my brother Jimmy. Immediately I could hear the fear and desperation in his voice, asking when I had last talked with Mom. I had spoken to her several hours earlier. Part of me already knew. There is something wrong with Bobby. Mom woke up and found him laying on the living room floor. He is not moving or breathing. I heard his words but was in complete shock and disbelief. This was not happening.</p>\n\n<p>I hung up with Jimmy and tried desperately to call my Mom. My Dad was already in route, as were other family members, to my Mom’s place. Being in VA while this was going on up in NY, I felt completely helpless. I eventually got word paramedics were already there trying to revive Bobby, while my poor Mom waited outside with others. This, a day or so before Mothers Day, would forever devastate my Mom to the day she died.</p>\n\n<p>By this time I had woken Kelly who came downstairs completely confused as to why I was being so loud. I was numb and frantic at the same time. I just turned and repeatedly yelled that there is something wrong with my brother. There is something seriously wrong with Bobby. Endless minutes would pass not knowing, struggling to comprehend that this was happening. My mind then went to that place, and has ever since, where I asked myself why the hell didn’t I talk to Bobby when he walked through the door while I was on the phone with my Mom hours earlier. Just a few words may have mattered. I knew then I should have.</p>\n\n<p>Eventually my phone would ring again. I could see that it was my Dad. I answered the phone and could hardly get the words out, dreading what he was going to say. All I could manage in a cracked voice was… Dad? Just hoping that he could somehow make it right. At that moment, time seemed to stop. At the corner of my eye I could see myself through Kelly’s eyes as she watched my devastation as I heard my Dad’s words. Raising her hand to her mouth.</p>\n\n<p>Two words…</p>\n\n<p>He’s gone.</p>\n",
 				"content_text": "Originally posted on 5/12/2016:\n\nI share this for my Mom, RIP.\n\nIt was 10 years ago tonight, an hour or so before midnight. It started with a frantic call and would end with just two words.\n\nMy phone rang. It was my brother Jimmy. Immediately I could hear the fear and desperation in his voice, asking when I had last talked with Mom. I had spoken to her several hours earlier. Part of me already knew. There is something wrong with Bobby. Mom woke up and found him laying on the living room floor. He is not moving or breathing. I heard his words but was in complete shock and disbelief. This was not happening.\n\nI hung up with Jimmy and tried desperately to call my Mom. My Dad was already in route, as were other family members, to my Mom’s place. Being in VA while this was going on up in NY, I felt completely helpless. I eventually got word paramedics were already there trying to revive Bobby, while my poor Mom waited outside with others. This, a day or so before Mothers Day, would forever devastate my Mom to the day she died.\n\nBy this time I had woken Kelly who came downstairs completely confused as to why I was being so loud. I was numb and frantic at the same time. I just turned and repeatedly yelled that there is something wrong with my brother. There is something seriously wrong with Bobby. Endless minutes would pass not knowing, struggling to comprehend that this was happening. My mind then went to that place, and has ever since, where I asked myself why the hell didn’t I talk to Bobby when he walked through the door while I was on the phone with my Mom hours earlier. Just a few words may have mattered. I knew then I should have.\n\nEventually my phone would ring again. I could see that it was my Dad. I answered the phone and could hardly get the words out, dreading what he was going to say. All I could manage in a cracked voice was… Dad? Just hoping that he could somehow make it right. At that moment, time seemed to stop. At the corner of my eye I could see myself through Kelly’s eyes as she watched my devastation as I heard my Dad’s words. Raising her hand to her mouth.\n\nTwo words…\n\nHe’s gone.\n",
@@ -401,7 +418,7 @@
 				"url": "https://www.whalen.org/2019/05/12/hes-gone.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/05/10/time-to-see.html",
+				"id": "http://kevinwhalen.micro.blog/2019/05/10/time-to-see.html",
 				
 				"content_html": "<p>Time to see Avengers End Game&hellip; a second time.</p>\n",
 				"content_text": "Time to see Avengers End Game... a second time. \n",
@@ -409,7 +426,7 @@
 				"url": "https://www.whalen.org/2019/05/10/time-to-see.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/29/for-all-the.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/29/for-all-the.html",
 				
 				"content_html": "<p>For all the bagging on the N.Y. Giants for reaching for Daniel Jones at #6, they weren’t necessarily the only team to reach for a QB. Don’t forget the historic #1 pick of, while extremely talented, a 5’10” QB by the Cardinals. Who just last year traded up to pick Josh Rosen, and dumped him for pennies on the dollar to the Dolphins. 🏈</p>\n",
 				"content_text": "For all the bagging on the N.Y. Giants for reaching for Daniel Jones at #6, they weren’t necessarily the only team to reach for a QB. Don’t forget the historic #1 pick of, while extremely talented, a 5’10” QB by the Cardinals. Who just last year traded up to pick Josh Rosen, and dumped him for pennies on the dollar to the Dolphins. 🏈\n",
@@ -417,7 +434,7 @@
 				"url": "https://www.whalen.org/2019/04/29/for-all-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/28/endgame-was-fantastic.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/28/endgame-was-fantastic.html",
 				
 				"content_html": "<p>Endgame was fantastic!!</p>\n",
 				"content_text": "Endgame was fantastic!!\n",
@@ -425,7 +442,7 @@
 				"url": "https://www.whalen.org/2019/04/28/endgame-was-fantastic.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/28/i-understand-the.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/28/i-understand-the.html",
 				
 				"content_html": "<p>I understand the media narrative hates the Daniel Jones pick at #6 by the N.Y. Giants. But it does appear the kid was highly rated by NFL insiders and many teams. And I absolutely believe the pre-draft reports that the Broncos and Redskins were in on picking him. If this kid is the real deal, the pick will be a steal.</p>\n",
 				"content_text": "I understand the media narrative hates the Daniel Jones pick at #6 by the N.Y. Giants. But it does appear the kid was highly rated by NFL insiders and many teams. And I absolutely believe the pre-draft reports that the Broncos and Redskins were in on picking him. If this kid is the real deal, the pick will be a steal. \n",
@@ -433,7 +450,7 @@
 				"url": "https://www.whalen.org/2019/04/28/i-understand-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/28/end-game-today.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/28/end-game-today.html",
 				
 				"content_html": "<p>End Game. Today. 4:15pm.</p>\n",
 				"content_text": "End Game. Today. 4:15pm.\n",
@@ -441,7 +458,7 @@
 				"url": "https://www.whalen.org/2019/04/28/end-game-today.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/25/holy-hell-the.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/25/holy-hell-the.html",
 				
 				"content_html": "<p>Holy hell! The Giants take Daniel Jones at #6! 🏈</p>\n",
 				"content_text": "Holy hell! The Giants take Daniel Jones at #6! 🏈\n",
@@ -449,7 +466,7 @@
 				"url": "https://www.whalen.org/2019/04/25/holy-hell-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/25/man-the-nfl.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/25/man-the-nfl.html",
 				
 				"content_html": "<p>Man the NFL Draft can’t come soon enough tonight! I’m hoping the Giants take a QB in the 1st round! 🏈</p>\n",
 				"content_text": "Man the NFL Draft can’t come soon enough tonight! I’m hoping the Giants take a QB in the 1st round! 🏈\n",
@@ -457,7 +474,7 @@
 				"url": "https://www.whalen.org/2019/04/25/man-the-nfl.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/23/cobra-kai-season.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/23/cobra-kai-season.html",
 				
 				"content_html": "<p>Cobra Kai Season 2 <a href=\"https://youtu.be/VaXoQJx3jYs\">tomorrow!</a></p>\n",
 				"content_text": "Cobra Kai Season 2 [tomorrow!](https://youtu.be/VaXoQJx3jYs)\n",
@@ -465,7 +482,7 @@
 				"url": "https://www.whalen.org/2019/04/23/cobra-kai-season.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/12/the-rise-of.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/12/the-rise-of.html",
 				
 				"content_html": "<p>The Rise of Skywalker is <a href=\"https://youtu.be/KIF5lXupC5M\">here</a>!! 😮</p>\n",
 				"content_text": "The Rise of Skywalker is [here](https://youtu.be/KIF5lXupC5M)!! 😮\n",
@@ -473,7 +490,7 @@
 				"url": "https://www.whalen.org/2019/04/12/the-rise-of.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/04/the-nfl-draft.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/04/the-nfl-draft.html",
 				
 				"content_html": "<p>The NFL Draft can’t come soon enough. Hoping my Giants do something at QB. 🏈</p>\n",
 				"content_text": "The NFL Draft can’t come soon enough. Hoping my Giants do something at QB. 🏈\n",
@@ -481,7 +498,7 @@
 				"url": "https://www.whalen.org/2019/04/04/the-nfl-draft.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/04/02/one-week-later.html",
+				"id": "http://kevinwhalen.micro.blog/2019/04/02/one-week-later.html",
 				
 				"content_html": "<p>One week later, and I’m still loving the new 12.9 inch iPad Pro. It has replaced my laptop.</p>\n",
 				"content_text": "One week later, and I’m still loving the new 12.9 inch iPad Pro. It has replaced my laptop.\n",
@@ -489,7 +506,7 @@
 				"url": "https://www.whalen.org/2019/04/02/one-week-later.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/03/24/finally-replaced-my.html",
+				"id": "http://kevinwhalen.micro.blog/2019/03/24/finally-replaced-my.html",
 				
 				"content_html": "<p>Finally replaced my 2013 MacBook Air. Over the last few weeks I have bounced between trying the 2018 MacBook Pro and 2018 MacBook Air. Yesterday I pulled the trigger and instead went with the 2018 iPad Pro 12.9 inch (with pencil and folio keyboard). I must say, for my needs, this device is wonderful.</p>\n",
 				"content_text": "Finally replaced my 2013 MacBook Air. Over the last few weeks I have bounced between trying the 2018 MacBook Pro and 2018 MacBook Air. Yesterday I pulled the trigger and instead went with the 2018 iPad Pro 12.9 inch (with pencil and folio keyboard). I must say, for my needs, this device is wonderful.\n",
@@ -497,7 +514,7 @@
 				"url": "https://www.whalen.org/2019/03/24/finally-replaced-my.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/03/12/the-time-to.html",
+				"id": "http://kevinwhalen.micro.blog/2019/03/12/the-time-to.html",
 				
 				"content_html": "<p>The time to trade OBJ was last year, before they signed him to the extension. Gettleman has some explaining to do. 🏈</p>\n",
 				"content_text": "The time to trade OBJ was last year, before they signed him to the extension. Gettleman has some explaining to do. 🏈\n",
@@ -505,7 +522,7 @@
 				"url": "https://www.whalen.org/2019/03/12/the-time-to.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/03/12/holy-hell-the.html",
+				"id": "http://kevinwhalen.micro.blog/2019/03/12/holy-hell-the.html",
 				
 				"content_html": "<p>Holy hell!! The Giants traded OBJ! 🏈</p>\n",
 				"content_text": "Holy hell!! The Giants traded OBJ! 🏈\n",
@@ -513,7 +530,7 @@
 				"url": "https://www.whalen.org/2019/03/12/holy-hell-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/01/21/bill-belichick-goat.html",
+				"id": "http://kevinwhalen.micro.blog/2019/01/21/bill-belichick-goat.html",
 				
 				"content_html": "<p>Bill Belichick. #GOAT 🏈</p>\n",
 				"content_text": "Bill Belichick. #GOAT 🏈\n",
@@ -521,7 +538,7 @@
 				"url": "https://www.whalen.org/2019/01/20/bill-belichick-goat.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2019/01/13/noah-puts-up.html",
+				"id": "http://kevinwhalen.micro.blog/2019/01/13/noah-puts-up.html",
 				
 				"content_html": "<p>Noah puts up 20 points for Opa!</p>\n",
 				"content_text": "Noah puts up 20 points for Opa!\n",
@@ -529,7 +546,7 @@
 				"url": "https://www.whalen.org/2019/01/13/noah-puts-up.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/12/22/officially-down-lbs.html",
+				"id": "http://kevinwhalen.micro.blog/2018/12/22/officially-down-lbs.html",
 				
 				"content_html": "<p>Officially down 70 lbs!</p>\n",
 				"content_text": "Officially down 70 lbs!\n",
@@ -537,7 +554,7 @@
 				"url": "https://www.whalen.org/2018/12/22/officially-down-lbs.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/12/07/avengers-end-game.html",
+				"id": "http://kevinwhalen.micro.blog/2018/12/07/avengers-end-game.html",
 				
 				"content_html": "<p>Avengers 4: End Game <a href=\"https://www.youtube.com/watch?v=hA6hldpSTF8\">Trailer</a> is finally here!</p>\n",
 				"content_text": "Avengers 4: End Game [Trailer](https://www.youtube.com/watch?v=hA6hldpSTF8) is finally here!\n",
@@ -545,7 +562,7 @@
 				"url": "https://www.whalen.org/2018/12/07/avengers-end-game.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/10/20/so-far-daredevil.html",
+				"id": "http://kevinwhalen.micro.blog/2018/10/20/so-far-daredevil.html",
 				
 				"content_html": "<p>So far Daredevil season 3 is pretty awesome.</p>\n",
 				"content_text": "So far Daredevil season 3 is pretty awesome. \n",
@@ -553,7 +570,7 @@
 				"url": "https://www.whalen.org/2018/10/19/so-far-daredevil.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/25/i-love-the.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/25/i-love-the.html",
 				
 				"content_html": "<p>I love the NFL Redzone on PS Vue. But I may go back to YouTube TV (and Philo). The YouTube TV overall experience is so much better. I can subscribe to the NFL Redzone in the iOS NFL app. 🏈</p>\n",
 				"content_text": "I love the NFL Redzone on PS Vue. But I may go back to YouTube TV (and Philo). The YouTube TV overall experience is so much better. I can subscribe to the NFL Redzone in the iOS NFL app. 🏈\n",
@@ -561,7 +578,7 @@
 				"url": "https://www.whalen.org/2018/09/25/i-love-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/24/im-loving-the.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/24/im-loving-the.html",
 				
 				"content_html": "<p>I&rsquo;m loving the new Apple Watch! The Sport Loop band is exteremely comfortable, and the Siri and Infographic Modular watch faces are great. </p>\n",
 				"content_text": "I'm loving the new Apple Watch! The Sport Loop band is exteremely comfortable, and the Siri and Infographic Modular watch faces are great. \n",
@@ -569,7 +586,7 @@
 				"url": "https://www.whalen.org/2018/09/24/im-loving-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/21/out-for-delivery.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/21/out-for-delivery.html",
 				
 				"content_html": "<p> Out for delivery!</p>\n",
 				"content_text": " Out for delivery!\n",
@@ -577,7 +594,7 @@
 				"url": "https://www.whalen.org/2018/09/21/out-for-delivery.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/18/captain-marvel-trailer.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/18/captain-marvel-trailer.html",
 				
 				"content_html": "<p>Captain Marvel <a href=\"https://www.youtube.com/watch?v=Z1BCujX3pw8\">trailer</a> finally here!</p>\n",
 				"content_text": "Captain Marvel [trailer](https://www.youtube.com/watch?v=Z1BCujX3pw8) finally here!\n",
@@ -585,7 +602,7 @@
 				"url": "https://www.whalen.org/2018/09/18/captain-marvel-trailer.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/17/174014.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/17/174014.html",
 				
 				"content_html": "<p>I need to take the <a href=\"https://www.macrumors.com/2018/09/17/apple-releases-ios-12-shortcuts-app-for-all-users/?utm_source=osx&amp;utm_medium=push&amp;utm_campaign=ios\">iOS 12 Shortcuts App</a> for a spin later.</p>\n",
 				"content_text": "I need to take the [iOS 12 Shortcuts App](https://www.macrumors.com/2018/09/17/apple-releases-ios-12-shortcuts-app-for-all-users/?utm_source=osx&utm_medium=push&utm_campaign=ios) for a spin later.\n",
@@ -593,7 +610,7 @@
 				"url": "https://www.whalen.org/2018/09/17/174014.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/16/man-i-love.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/16/man-i-love.html",
 				
 				"content_html": "<p>Man I love the NFL Redzone channel. <a href=\"https://www.playstation.com/en-us/network/vue/sports/?emcid=se-pi-148139\">#PSVue</a> 🏈</p>\n",
 				"content_text": "Man I love the NFL Redzone channel. [#PSVue](https://www.playstation.com/en-us/network/vue/sports/?emcid=se-pi-148139) 🏈\n",
@@ -601,7 +618,7 @@
 				"url": "https://www.whalen.org/2018/09/16/man-i-love.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/15/i-have-been.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/15/i-have-been.html",
 				
 				"content_html": "<p>I have been checking out PlayStation Vue (Core + Sports Pack) with the $10 discount. While I love the YouTube TV UI, I’m going to pause service and stick with PlayStation Vue. The biggest draw is having the NFL Network and NFL RedZone.</p>\n",
 				"content_text": "I have been checking out PlayStation Vue (Core + Sports Pack) with the $10 discount. While I love the YouTube TV UI, I’m going to pause service and stick with PlayStation Vue. The biggest draw is having the NFL Network and NFL RedZone. \n",
@@ -609,7 +626,7 @@
 				"url": "https://www.whalen.org/2018/09/15/i-have-been.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/14/preorder-successful.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/14/preorder-successful.html",
 				
 				"content_html": "<p> Pre-order successful!</p>\n",
 				"content_text": " Pre-order successful!\n",
@@ -617,7 +634,7 @@
 				"url": "https://www.whalen.org/2018/09/14/preorder-successful.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/13/im-upgrading-from.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/13/im-upgrading-from.html",
 				
 				"content_html": "<p>I’m upgrading from the iPhone X to the iPhone Xs Max. But also considering getting an <a href=\"https://www.youtube.com/watch?v=m-TLCzQ8Mlk\">Apple Watch Series 4</a> (upgrade from Series 0).</p>\n",
 				"content_text": "I’m upgrading from the iPhone X to the iPhone Xs Max. But also considering getting an [Apple Watch Series 4](https://www.youtube.com/watch?v=m-TLCzQ8Mlk) (upgrade from Series 0). \n",
@@ -625,7 +642,7 @@
 				"url": "https://www.whalen.org/2018/09/13/im-upgrading-from.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/12/welp-say-goodbye.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/12/welp-say-goodbye.html",
 				
 				"content_html": "<p>Welp, say <a href=\"https://www.blog.google/products/gmail/inbox-signing-find-your-favorite-features-new-gmail/\">goodbye</a> to Inbox by Gmail.</p>\n",
 				"content_text": "Welp, say [goodbye](https://www.blog.google/products/gmail/inbox-signing-find-your-favorite-features-new-gmail/) to Inbox by Gmail. \n",
@@ -633,7 +650,7 @@
 				"url": "https://www.whalen.org/2018/09/12/welp-say-goodbye.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/12/ok-iphone-xs.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/12/ok-iphone-xs.html",
 				
 				"content_html": "<p>Ok, iPhone Xs Max or wait for the Google Pixel 3 XL?</p>\n",
 				"content_text": "Ok, iPhone Xs Max or wait for the Google Pixel 3 XL?\n",
@@ -641,7 +658,7 @@
 				"url": "https://www.whalen.org/2018/09/12/ok-iphone-xs.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/12/iphone-xs-max.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/12/iphone-xs-max.html",
 				
 				"content_html": "<p><a href=\"https://9to5mac.com/2018/09/12/2018-iphone-names-2/?pushup=1\">iPhone XS Max?</a> </p>\n",
 				"content_text": "[iPhone XS Max?](https://9to5mac.com/2018/09/12/2018-iphone-names-2/?pushup=1) \n",
@@ -649,7 +666,7 @@
 				"url": "https://www.whalen.org/2018/09/12/iphone-xs-max.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/12/so-a-new.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/12/so-a-new.html",
 				
 				"content_html": "<p>So a new <a href=\"https://www.apple.com/apple-events/september-2018/\">iPhone X will be annouced today</a>. For the first time, I may wait until I see the Googel Pixel 3 announcement in October. </p>\n",
 				"content_text": "So a new [iPhone X will be annouced today](https://www.apple.com/apple-events/september-2018/). For the first time, I may wait until I see the Googel Pixel 3 announcement in October. \n",
@@ -657,7 +674,7 @@
 				"url": "https://www.whalen.org/2018/09/12/so-a-new.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/09/spectacular-yard-td.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/09/spectacular-yard-td.html",
 				
 				"content_html": "<p>Spectacular <a href=\"https://youtu.be/5W-GBBVd51Y\">68 yard TD run</a> by Saquon Barkley. 🏈</p>\n",
 				"content_text": "Spectacular [68 yard TD run](https://youtu.be/5W-GBBVd51Y) by Saquon Barkley. 🏈\n",
@@ -665,7 +682,7 @@
 				"url": "https://www.whalen.org/2018/09/09/spectacular-yard-td.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/04/i-was-definitley.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/04/i-was-definitley.html",
 				
 				"content_html": "<p>I was definitley a little surpirsed the <a href=\"[www.nydailynews.com/sports/fo...](http://www.nydailynews.com/sports/football/giants/ny-sports-davis-webb-waived-20180902-story.html)\">Giants waived Davis Webb</a>. But it makes sense that the young QB they wanted to keep was Kyle Lauletta, who Gettleman/Shurmur <a href=\"https://www.youtube.com/watch?v=lrZ8yFZw95I\">drafted</a>. 🏈</p>\n",
 				"content_text": "I was definitley a little surpirsed the [Giants waived Davis Webb]( [www.nydailynews.com/sports/fo...](http://www.nydailynews.com/sports/football/giants/ny-sports-davis-webb-waived-20180902-story.html)). But it makes sense that the young QB they wanted to keep was Kyle Lauletta, who Gettleman/Shurmur [drafted](https://www.youtube.com/watch?v=lrZ8yFZw95I). 🏈\n",
@@ -673,7 +690,7 @@
 				"url": "https://www.whalen.org/2018/09/03/i-was-definitley.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/09/03/sunlit-is-out.html",
+				"id": "http://kevinwhalen.micro.blog/2018/09/03/sunlit-is-out.html",
 				
 				"content_html": "<p>Sunlit 2.2 is out. Looking great!</p>\n",
 				"content_text": "Sunlit 2.2 is out. Looking great!\n",
@@ -681,7 +698,7 @@
 				"url": "https://www.whalen.org/2018/09/03/sunlit-is-out.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/08/26/fantasy-football-draft.html",
+				"id": "http://kevinwhalen.micro.blog/2018/08/26/fantasy-football-draft.html",
 				
 				"content_html": "<p>Fantasy football draft time. 🏈</p>\n",
 				"content_text": "Fantasy football draft time. 🏈\n",
@@ -689,7 +706,7 @@
 				"url": "https://www.whalen.org/2018/08/26/fantasy-football-draft.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/08/19/pushing-closer-to.html",
+				"id": "http://kevinwhalen.micro.blog/2018/08/19/pushing-closer-to.html",
 				
 				"content_html": "<p>Pushing closer to cutting the cord. Trying out both YouTube TV and Directv Now. So far I’m really liking the YouTube TV UI.</p>\n",
 				"content_text": "Pushing closer to cutting the cord. Trying out both YouTube TV and Directv Now. So far I’m really liking the YouTube TV UI. \n",
@@ -697,7 +714,7 @@
 				"url": "https://www.whalen.org/2018/08/19/pushing-closer-to.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/08/17/so-if-im.html",
+				"id": "http://kevinwhalen.micro.blog/2018/08/17/so-if-im.html",
 				
 				"content_html": "<p>So if I’m casting YouTube TV from the iOS app (with Chromecast), and close the app, does the cast stop? I’m wondering if I can still use my phone why casting.</p>\n",
 				"content_text": "So if I’m casting YouTube TV from the iOS app (with Chromecast), and close the app, does the cast stop? I’m wondering if I can still use my phone why casting. \n",
@@ -705,7 +722,7 @@
 				"url": "https://www.whalen.org/2018/08/17/so-if-im.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/08/16/thinking-of-finally.html",
+				"id": "http://kevinwhalen.micro.blog/2018/08/16/thinking-of-finally.html",
 				
 				"content_html": "<p>Thinking of finally cutting the cord and cancelling DirectTV. I am going to give YouTube TV a try.</p>\n",
 				"content_text": "Thinking of finally cutting the cord and cancelling DirectTV. I am going to give YouTube TV a try.\n",
@@ -713,7 +730,7 @@
 				"url": "https://www.whalen.org/2018/08/15/thinking-of-finally.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/07/21/time-to-see.html",
+				"id": "http://kevinwhalen.micro.blog/2018/07/21/time-to-see.html",
 				
 				"content_html": "<p>Time to see <a href=\"https://youtu.be/UUkn-enk2RU\">Ant-Man and The Wasp</a>.</p>\n",
 				"content_text": "Time to see [Ant-Man and The Wasp](https://youtu.be/UUkn-enk2RU).\n",
@@ -721,7 +738,7 @@
 				"url": "https://www.whalen.org/2018/07/21/time-to-see.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/07/20/star-wars-the.html",
+				"id": "http://kevinwhalen.micro.blog/2018/07/20/star-wars-the.html",
 				
 				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=RI7WyhWZkzk\">Star Wars: The Clone Wars</a> returns!!</p>\n",
 				"content_text": "[Star Wars: The Clone Wars](https://www.youtube.com/watch?v=RI7WyhWZkzk) returns!!\n",
@@ -729,7 +746,7 @@
 				"url": "https://www.whalen.org/2018/07/20/star-wars-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/07/13/the-new-fortnite.html",
+				"id": "http://kevinwhalen.micro.blog/2018/07/13/the-new-fortnite.html",
 				
 				"content_html": "<p>The new <a href=\"http://www.nintendolife.com/news/2018/07/guide_fortnite_-_how_to_use_gyro_motion_controls_on_nintendo_switch\">Fortnite motion controls</a> on the Nintendo Switch are not as fluid as they are in Splatoon 2.</p>\n",
 				"content_text": "The new [Fortnite motion controls](http://www.nintendolife.com/news/2018/07/guide_fortnite_-_how_to_use_gyro_motion_controls_on_nintendo_switch) on the Nintendo Switch are not as fluid as they are in Splatoon 2.\n",
@@ -737,7 +754,7 @@
 				"url": "https://www.whalen.org/2018/07/13/the-new-fortnite.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/06/06/the-talk-show.html",
+				"id": "http://kevinwhalen.micro.blog/2018/06/06/the-talk-show.html",
 				"title": "The Talk Show Live From WWDC 2018",
 				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=38kg8h-y0Yw\">www.youtube.com/watch</a></p>\n",
 				"content_text": " [www.youtube.com/watch](https://www.youtube.com/watch?v=38kg8h-y0Yw)\n",
@@ -745,7 +762,7 @@
 				"url": "https://www.whalen.org/2018/06/05/the-talk-show.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/06/04/ok-time-to.html",
+				"id": "http://kevinwhalen.micro.blog/2018/06/04/ok-time-to.html",
 				
 				"content_html": "<p>Ok, time to listen to the WWDC 2018 live keynote.</p>\n",
 				"content_text": "Ok, time to listen to the WWDC 2018 live keynote.\n",
@@ -753,7 +770,7 @@
 				"url": "https://www.whalen.org/2018/06/04/ok-time-to.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/05/13/hes-gone.html",
+				"id": "http://kevinwhalen.micro.blog/2018/05/13/hes-gone.html",
 				"title": "He's gone",
 				"content_html": "<p>Originally posted on Facebook, 5/12/2016:</p>\n\n<p>I share this for my Mom, RIP.</p>\n\n<p>It was 10 years ago tonight, an hour or so before midnight. It started with a frantic call and would end with just two words.</p>\n\n<p>My phone rang. It was my brother Jimmy. Immediately I could hear the fear and desperation in his voice, asking when I had last talked with Mom. I had spoken to her several hours earlier. Part of me already knew. There is something wrong with Bobby. Mom woke up and found him laying on the living room floor. He is not moving or breathing. I heard his words but was in complete shock and disbelief. This was not happening.</p>\n\n<p>I hung up with Jimmy and tried desperately to call my Mom. My Dad was already in route, as were other family members, to my Mom&rsquo;s place. Being in VA while this was going on up in NY, I felt completely helpless. I eventually got word paramedics were already there trying to revive Bobby, while my poor Mom waited outside with others. This, a day or so before Mothers Day, would forever devastate my Mom to the day she died.</p>\n\n<p>By this time I had woken Kelly who came downstairs completely confused as to why I was being so loud. I was numb and frantic at the same time. I just turned and repeatedly yelled that there is something wrong with my brother. There is something seriously wrong with Bobby.\nEndless minutes would pass not knowing, struggling to comprehend that this was happening. My mind then went to that place, and has ever since, where I asked myself why the hell didn&rsquo;t I talk to Bobby when he walked through the door while I was on the phone with my Mom hours earlier. Just a few words may have mattered. I knew then I should have.</p>\n\n<p>Eventually my phone would ring again. I could see that it was my Dad. I answered the phone and could hardly get the words out, dreading what he was going to say. All I could manage in a cracked voice was&hellip; Dad? Just hoping that he could somehow make it right. At that moment, time seemed to stop. At the corner of my eye I could see myself through Kelly&rsquo;s eyes as she watched my devastation as I heard my Dad&rsquo;s words. Raising her hand to her mouth.</p>\n\n<p>Two words&hellip;</p>\n\n<p>He&rsquo;s gone.</p>\n",
 				"content_text": "Originally posted on Facebook, 5/12/2016:\n\nI share this for my Mom, RIP.\n\nIt was 10 years ago tonight, an hour or so before midnight. It started with a frantic call and would end with just two words.\n\nMy phone rang. It was my brother Jimmy. Immediately I could hear the fear and desperation in his voice, asking when I had last talked with Mom. I had spoken to her several hours earlier. Part of me already knew. There is something wrong with Bobby. Mom woke up and found him laying on the living room floor. He is not moving or breathing. I heard his words but was in complete shock and disbelief. This was not happening.\n\nI hung up with Jimmy and tried desperately to call my Mom. My Dad was already in route, as were other family members, to my Mom's place. Being in VA while this was going on up in NY, I felt completely helpless. I eventually got word paramedics were already there trying to revive Bobby, while my poor Mom waited outside with others. This, a day or so before Mothers Day, would forever devastate my Mom to the day she died.\n\nBy this time I had woken Kelly who came downstairs completely confused as to why I was being so loud. I was numb and frantic at the same time. I just turned and repeatedly yelled that there is something wrong with my brother. There is something seriously wrong with Bobby.\nEndless minutes would pass not knowing, struggling to comprehend that this was happening. My mind then went to that place, and has ever since, where I asked myself why the hell didn't I talk to Bobby when he walked through the door while I was on the phone with my Mom hours earlier. Just a few words may have mattered. I knew then I should have.\n\nEventually my phone would ring again. I could see that it was my Dad. I answered the phone and could hardly get the words out, dreading what he was going to say. All I could manage in a cracked voice was... Dad? Just hoping that he could somehow make it right. At that moment, time seemed to stop. At the corner of my eye I could see myself through Kelly's eyes as she watched my devastation as I heard my Dad's words. Raising her hand to her mouth.\n\nTwo words...\n\nHe's gone.\n",
@@ -761,7 +778,7 @@
 				"url": "https://www.whalen.org/2018/05/12/hes-gone.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/04/26/nfl-draft-giants.html",
+				"id": "http://kevinwhalen.micro.blog/2018/04/26/nfl-draft-giants.html",
 				
 				"content_html": "<p>NFL Draft!! Giants take Darnold or Barkley at 2. 🏈</p>\n",
 				"content_text": "NFL Draft!! Giants take Darnold or Barkley at 2. 🏈\n",
@@ -769,7 +786,7 @@
 				"url": "https://www.whalen.org/2018/04/26/nfl-draft-giants.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/03/30/fortnite-on-ios.html",
+				"id": "http://kevinwhalen.micro.blog/2018/03/30/fortnite-on-ios.html",
 				
 				"content_html": "<p>Fortnite on iOS is subpar. Lets hope it comes to the Nintendo Switch for a better mobile experience.</p>\n",
 				"content_text": "Fortnite on iOS is subpar. Lets hope it comes to the Nintendo Switch for a better mobile experience.\n",
@@ -777,7 +794,7 @@
 				"url": "https://www.whalen.org/2018/03/30/fortnite-on-ios.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/03/17/the-ny-giants.html",
+				"id": "http://kevinwhalen.micro.blog/2018/03/17/the-ny-giants.html",
 				
 				"content_html": "<p>The N.Y. Giants can’t trade out of the top 5. Period. 🏈</p>\n",
 				"content_text": "The N.Y. Giants can’t trade out of the top 5. Period. 🏈\n",
@@ -785,7 +802,7 @@
 				"url": "https://www.whalen.org/2018/03/17/the-ny-giants.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/03/07/211241.html",
+				"id": "http://kevinwhalen.micro.blog/2018/03/07/211241.html",
 				
 				"content_html": "<p>Giants <a href=\"https://nypost.com/2018/03/07/giants-trade-two-picks-for-rams-linebacker-alec-ogletree\">trade</a> for Rams LB Alec Ogletree. Gettleman making moves. 🏈</p>\n",
 				"content_text": "Giants [trade](https://nypost.com/2018/03/07/giants-trade-two-picks-for-rams-linebacker-alec-ogletree) for Rams LB Alec Ogletree. Gettleman making moves. 🏈\n",
@@ -793,7 +810,7 @@
 				"url": "https://www.whalen.org/2018/03/07/211241.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/02/16/finally-switched-over.html",
+				"id": "http://kevinwhalen.micro.blog/2018/02/16/finally-switched-over.html",
 				
 				"content_html": "<p>Finally switched over to FastMail.</p>\n",
 				"content_text": "Finally switched over to FastMail.\n",
@@ -801,7 +818,7 @@
 				"url": "https://www.whalen.org/2018/02/15/finally-switched-over.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/02/12/happy-birthday-baby.html",
+				"id": "http://kevinwhalen.micro.blog/2018/02/12/happy-birthday-baby.html",
 				
 				"content_html": "<p>Happy Birthday baby brother. #RIP #39</p>\n",
 				"content_text": "Happy Birthday baby brother. #RIP #39\n",
@@ -809,7 +826,7 @@
 				"url": "https://www.whalen.org/2018/02/11/happy-birthday-baby.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/02/07/so-mcdanielshttpswwwinstagramcompbelhqn-spurns.html",
+				"id": "http://kevinwhalen.micro.blog/2018/02/07/so-mcdanielshttpswwwinstagramcompbelhqn-spurns.html",
 				
 				"content_html": "<p>So <a href=\"https://www.instagram.com/p/Be4L_HQn062/\">McDaniels</a> spurns the Colts the night before his introduction press conference and stays with the Patriots (to succeed Belichick). Perhaps a little payback for <a href=\"https://en.wikipedia.org/wiki/Deflategate\">deflategate</a>? 🏈</p>\n",
 				"content_text": "So [McDaniels](https://www.instagram.com/p/Be4L_HQn062/) spurns the Colts the night before his introduction press conference and stays with the Patriots (to succeed Belichick). Perhaps a little payback for [deflategate](https://en.wikipedia.org/wiki/Deflategate)? 🏈\n",
@@ -817,7 +834,7 @@
 				"url": "https://www.whalen.org/2018/02/06/so-mcdanielshttpswwwinstagramcompbelhqn-spurns.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/02/05/the-patriots-and.html",
+				"id": "http://kevinwhalen.micro.blog/2018/02/05/the-patriots-and.html",
 				
 				"content_html": "<p>The Patriots and Patricia got punked on that 4th and goal by the Eagles. And you know what? Nick Foles can catch a football. 🏈</p>\n",
 				"content_text": "The Patriots and Patricia got punked on that 4th and goal by the Eagles. And you know what? Nick Foles can catch a football. 🏈\n",
@@ -825,7 +842,7 @@
 				"url": "https://www.whalen.org/2018/02/04/the-patriots-and.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/02/03/another-game-winning.html",
+				"id": "http://kevinwhalen.micro.blog/2018/02/03/another-game-winning.html",
 				
 				"content_html": "<p>Another game winning shot for Noah with 2 seconds left! 🏀</p>\n",
 				"content_text": "Another game winning shot for Noah with 2 seconds left! 🏀\n",
@@ -833,7 +850,7 @@
 				"url": "https://www.whalen.org/2018/02/03/another-game-winning.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/02/03/watching-the-helmet.html",
+				"id": "http://kevinwhalen.micro.blog/2018/02/03/watching-the-helmet.html",
 				
 				"content_html": "<p>Watching <a href=\"https://twitter.com/NFLFilms/status/959471745618141185\">The Helmet Catch</a> on the NFL Network. I love that it&rsquo;s still haunting Patriots fans to this day. #18-1 #GIANTS 🏈</p>\n",
 				"content_text": "Watching [The Helmet Catch](https://twitter.com/NFLFilms/status/959471745618141185) on the NFL Network. I love that it's still haunting Patriots fans to this day. #18-1 #GIANTS 🏈\n",
@@ -841,7 +858,7 @@
 				"url": "https://www.whalen.org/2018/02/02/watching-the-helmet.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/01/31/director-explains-how.html",
+				"id": "http://kevinwhalen.micro.blog/2018/01/31/director-explains-how.html",
 				"title": "'The Two Bills'",
 				"content_html": "<p>I can&rsquo;t wait to watch <a href=\"https://www.newsday.com/sports/media/30-for-30-two-bills-belichick-parcells-1.16426799\">this!</a> 🏈</p>\n",
 				"content_text": "I can't wait to watch [this!](https://www.newsday.com/sports/media/30-for-30-two-bills-belichick-parcells-1.16426799) 🏈\n",
@@ -849,7 +866,7 @@
 				"url": "https://www.whalen.org/2018/01/31/director-explains-how.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/01/29/tough-loss-for.html",
+				"id": "http://kevinwhalen.micro.blog/2018/01/29/tough-loss-for.html",
 				
 				"content_html": "<p>Tough loss for Noah today and his 9U basketball 🏀 team. It was the first loss of the season. Still it was a learning moment that it&rsquo;s ok to have a &ldquo;bad&rdquo; game, learn from it, and come back that much stronger. Super proud of him.</p>\n",
 				"content_text": "Tough loss for Noah today and his 9U basketball 🏀 team. It was the first loss of the season. Still it was a learning moment that it's ok to have a \"bad\" game, learn from it, and come back that much stronger. Super proud of him.\n",
@@ -857,7 +874,7 @@
 				"url": "https://www.whalen.org/2018/01/28/tough-loss-for.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/01/23/feedbin-is-down.html",
+				"id": "http://kevinwhalen.micro.blog/2018/01/23/feedbin-is-down.html",
 				
 				"content_html": "<p>Feedbin is down.</p>\n",
 				"content_text": "Feedbin is down.\n",
@@ -865,7 +882,7 @@
 				"url": "https://www.whalen.org/2018/01/22/feedbin-is-down.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/01/15/what-an-unbelievable.html",
+				"id": "http://kevinwhalen.micro.blog/2018/01/15/what-an-unbelievable.html",
 				
 				"content_html": "<p>What an unbelievable ending to the Vikings and Saints game! Nice to see Vikings fans have some luck on their side for once after so many disappointments. 🏈</p>\n",
 				"content_text": "What an unbelievable ending to the Vikings and Saints game! Nice to see Vikings fans have some luck on their side for once after so many disappointments. 🏈\n",
@@ -873,7 +890,7 @@
 				"url": "https://www.whalen.org/2018/01/14/what-an-unbelievable.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/01/14/id-like-to.html",
+				"id": "http://kevinwhalen.micro.blog/2018/01/14/id-like-to.html",
 				
 				"content_html": "<p>I’d like to see the #Jaguars pull this out over the #Steelers and see what their defense can do against Tom Brady and the Patriots. 🏈</p>\n",
 				"content_text": "I’d like to see the #Jaguars pull this out over the #Steelers and see what their defense can do against Tom Brady and the Patriots. 🏈\n",
@@ -881,7 +898,7 @@
 				"url": "https://www.whalen.org/2018/01/14/id-like-to.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/01/10/ny-giants-interviewed.html",
+				"id": "http://kevinwhalen.micro.blog/2018/01/10/ny-giants-interviewed.html",
 				
 				"content_html": "<p>N.Y. Giants interviewed Steve Wilks today but let him leave the building. That tells me their top guy is still playing in the playoffs. #Giants #McDaniels #Patricia #Shumur. 🏈</p>\n",
 				"content_text": "N.Y. Giants interviewed Steve Wilks today but let him leave the building. That tells me their top guy is still playing in the playoffs. #Giants #McDaniels #Patricia #Shumur. 🏈\n",
@@ -889,7 +906,7 @@
 				"url": "https://www.whalen.org/2018/01/09/ny-giants-interviewed.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2018/01/05/bring-bill-belichick.html",
+				"id": "http://kevinwhalen.micro.blog/2018/01/05/bring-bill-belichick.html",
 				
 				"content_html": "<p>Bring Bill Belichick back to the N.Y. Giants! #BB2NYG. 🏈</p>\n",
 				"content_text": "Bring Bill Belichick back to the N.Y. Giants! #BB2NYG. 🏈\n",
@@ -897,7 +914,7 @@
 				"url": "https://www.whalen.org/2018/01/05/bring-bill-belichick.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/31/ny-giants-gm.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/31/ny-giants-gm.html",
 				
 				"content_html": "<p>N.Y. Giants GM Dave Gettleman is already starting to “kick ass”. 🏈</p>\n",
 				"content_text": "N.Y. Giants GM Dave Gettleman is already starting to “kick ass”. 🏈\n",
@@ -905,7 +922,7 @@
 				"url": "https://www.whalen.org/2017/12/31/ny-giants-gm.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/29/just-watched-the.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/29/just-watched-the.html",
 				
 				"content_html": "<p>Just watched the N.Y. Giants Dave Gettleman introductory press conference. I am impressed. 🏈</p>\n",
 				"content_text": "Just watched the N.Y. Giants Dave Gettleman introductory press conference. I am impressed. 🏈\n",
@@ -913,7 +930,7 @@
 				"url": "https://www.whalen.org/2017/12/29/just-watched-the.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/28/so-the-ny.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/28/so-the-ny.html",
 				
 				"content_html": "<p>So the N.Y. Giants hired Dave Gettleman as the new GM. Is Steve Wilks far behind? 🏈</p>\n",
 				"content_text": "So the N.Y. Giants hired Dave Gettleman as the new GM. Is Steve Wilks far behind? 🏈\n",
@@ -921,7 +938,7 @@
 				"url": "https://www.whalen.org/2017/12/28/so-the-ny.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/25/the-giants-were.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/25/the-giants-were.html",
 				
 				"content_html": "<p>The Giants were down 23-0 in the 4th quarter. I don’t understand why Webb is not active for this game. Would have been an ideal time to give the kid playing time. This #2 pick for the new GM/Coach could be a franchise altering decision. Just like taking Eli was in 2004.</p>\n",
 				"content_text": "The Giants were down 23-0 in the 4th quarter. I don’t understand why Webb is not active for this game. Would have been an ideal time to give the kid playing time. This #2 pick for the new GM/Coach could be a franchise altering decision. Just like taking Eli was in 2004. \n",
@@ -929,7 +946,7 @@
 				"url": "https://www.whalen.org/2017/12/24/the-giants-were.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/22/i-dont-know.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/22/i-dont-know.html",
 				
 				"content_html": "<p>I don't know, but I'm really liking a Riddick/McDaniels combo for the NY Giants new GM/Coach. 🏈</p>\n",
 				"content_text": "<p>I don't know, but I'm really liking a Riddick/McDaniels combo for the NY Giants new GM/Coach. 🏈</p>\n",
@@ -937,7 +954,7 @@
 				"url": "https://www.whalen.org/2017/12/21/i-dont-know.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/19/i-need-to.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/19/i-need-to.html",
 				
 				"content_html": "<p>I need to see The Last Jedi a 2nd time. I’m still not sure what I think about it.</p>\n",
 				"content_text": "I need to see The Last Jedi a 2nd time. I’m still not sure what I think about it.\n",
@@ -945,7 +962,7 @@
 				"url": "https://www.whalen.org/2017/12/19/i-need-to.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/17/the-last-jedi.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/17/the-last-jedi.html",
 				
 				"content_html": "<p>The Last Jedi. Holy shit!</p>\n",
 				"content_text": "The Last Jedi. Holy shit!\n",
@@ -953,7 +970,7 @@
 				"url": "https://www.whalen.org/2017/12/17/the-last-jedi.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/17/rewatching-the-force.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/17/rewatching-the-force.html",
 				
 				"content_html": "<p>Rewatching The Force Awakens before seeing The Last Jedi tomorrow.</p>\n",
 				"content_text": "Rewatching The Force Awakens before seeing The Last Jedi tomorrow.\n",
@@ -961,7 +978,7 @@
 				"url": "https://www.whalen.org/2017/12/16/rewatching-the-force.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/16/cant-wait-for.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/16/cant-wait-for.html",
 				
 				"content_html": "<p>Can’t wait for Sunday, 1:15pm! #TheLastJedi</p>\n",
 				"content_text": "Can’t wait for Sunday, 1:15pm! #TheLastJedi\n",
@@ -969,7 +986,7 @@
 				"url": "https://www.whalen.org/2017/12/15/cant-wait-for.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/10/its-time-for.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/10/its-time-for.html",
 				
 				"content_html": "<p>It’s time for the Giants to give Davis Webb some playing time. Lets start by activating him for next weeks game. With possibly moving to get him a start in the last game or 2 of the season. 🏈</p>\n",
 				"content_text": "It’s time for the Giants to give Davis Webb some playing time. Lets start by activating him for next weeks game. With possibly moving to get him a start in the last game or 2 of the season. 🏈\n",
@@ -977,7 +994,7 @@
 				"url": "https://www.whalen.org/2017/12/10/its-time-for.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/08/testing-marsedit.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/08/testing-marsedit.html",
 				
 				"content_html": "<p>Testing MarsEdit 4.</p>\n",
 				"content_text": "<p>Testing MarsEdit 4.</p>\n",
@@ -985,7 +1002,7 @@
 				"url": "https://www.whalen.org/2017/12/08/testing-marsedit.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/05/mcadoo-fired-along.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/05/mcadoo-fired-along.html",
 				
 				"content_html": "<p>Mcadoo fired, along with Reese. NY Giants have to get this right. 🏈</p>\n",
 				"content_text": "Mcadoo fired, along with Reese. NY Giants have to get this right. 🏈\n",
@@ -993,7 +1010,7 @@
 				"url": "https://www.whalen.org/2017/12/04/mcadoo-fired-along.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/04/giants-lose-question.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/04/giants-lose-question.html",
 				
 				"content_html": "<p>Giants lose. Question now is does Mcadoo even make flight back with team? 🏈</p>\n",
 				"content_text": "Giants lose. Question now is does Mcadoo even make flight back with team? 🏈\n",
@@ -1001,7 +1018,7 @@
 				"url": "https://www.whalen.org/2017/12/03/giants-lose-question.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/02/alcs-game-boone.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/02/alcs-game-boone.html",
 				
 				"content_html": "<p>2003 ALCS Game 7 Boone Walk-Off HR <a href=\"https://m.youtube.com/watch?v=CLY16wmHdUk\">m.youtube.com/watch</a></p>\n",
 				"content_text": "2003 ALCS Game 7 Boone Walk-Off HR [m.youtube.com/watch](https://m.youtube.com/watch?v=CLY16wmHdUk)\n",
@@ -1009,7 +1026,7 @@
 				"url": "https://www.whalen.org/2017/12/01/alcs-game-boone.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/02/wow-aaron-boone.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/02/wow-aaron-boone.html",
 				
 				"content_html": "<p>Wow! Aaron Boone to become next Yankees manager. <a href=\"https://twitter.com/WFAN660/status/936768188083294208\">twitter.com/WFAN660/s&hellip;</a></p>\n",
 				"content_text": "Wow! Aaron Boone to become next Yankees manager. [twitter.com/WFAN660/s...](https://twitter.com/WFAN660/status/936768188083294208)\n",
@@ -1017,7 +1034,7 @@
 				"url": "https://www.whalen.org/2017/12/01/wow-aaron-boone.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/12/01/eli-manning-is.html",
+				"id": "http://kevinwhalen.micro.blog/2017/12/01/eli-manning-is.html",
 				
 				"content_html": "<p>Eli Manning is a class act. <a href=\"https://twitter.com/Giants/status/935621676456402945\">twitter.com/Giants/st&hellip;</a> 🏈</p>\n",
 				"content_text": "Eli Manning is a class act. [twitter.com/Giants/st...](https://twitter.com/Giants/status/935621676456402945) 🏈\n",
@@ -1025,7 +1042,7 @@
 				"url": "https://www.whalen.org/2017/12/01/eli-manning-is.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/11/28/holy-smokes-eli.html",
+				"id": "http://kevinwhalen.micro.blog/2017/11/28/holy-smokes-eli.html",
 				
 				"content_html": "<p>Holy smokes, Eli Manning benched. 🏈 <a href=\"https://nypost.com/2017/11/28/geno-smith-starting-for-giants-on-sunday/\">nypost.com/2017/11/2&hellip;</a></p>\n",
 				"content_text": "Holy smokes, Eli Manning benched. 🏈 [nypost.com/2017/11/2...](https://nypost.com/2017/11/28/geno-smith-starting-for-giants-on-sunday/)\n",
@@ -1033,7 +1050,7 @@
 				"url": "https://www.whalen.org/2017/11/28/holy-smokes-eli.html"
 			},
 			{
-				"id": "http://kawhalen.micro.blog/2017/11/27/hello-world.html",
+				"id": "http://kevinwhalen.micro.blog/2017/11/27/hello-world.html",
 				
 				"content_html": "<p>Hello World!</p>\n",
 				"content_text": "Hello World!\n",
