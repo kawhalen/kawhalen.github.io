@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://kevinwhalen.micro.blog/2021/10/19/hello-world-from.html",
+				
+				"content_html": "<p>Hello world from Drummer.</p>\n",
+				"content_text": "Hello world from Drummer.\n",
+				"date_published": "2021-10-19T11:06:42-04:00",
+				"url": "https://www.whalen.org/2021/10/19/hello-world-from.html"
+			},
+			{
 				"id": "http://kevinwhalen.micro.blog/2021/09/27/the-manningcast-is.html",
 				
 				"content_html": "<p>The ManningCast is the best thing on Monday Night Football in years.</p>\n",
@@ -17,8 +25,8 @@
 			{
 				"id": "http://kevinwhalen.micro.blog/2021/09/10/084250.html",
 				
-				"content_html": "<p><img src=\"https://www.whalen.org/uploads/2021/f8dc1eba70.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/f8dc1eba70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/f8dc1eba70.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/f8dc1eba70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-10T08:42:50-04:00",
 				"url": "https://www.whalen.org/2021/09/10/084250.html",
 				"tags": ["Photos"]
@@ -26,8 +34,8 @@
 			{
 				"id": "http://kevinwhalen.micro.blog/2021/08/27/another-one-of.html",
 				
-				"content_html": "<p>Another one of my favorites.</p>\n\n<p><img src=\"https://www.whalen.org/uploads/2021/b541959d6c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Another one of my favorites. \n\n<img src=\"https://www.whalen.org/uploads/2021/b541959d6c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Another one of my favorites.</p>\n\n<p><img src=\"uploads/2021/b541959d6c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Another one of my favorites. \n\n<img src=\"uploads/2021/b541959d6c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-27T12:48:51-04:00",
 				"url": "https://www.whalen.org/2021/08/27/another-one-of.html",
 				"tags": ["Photos"]
@@ -43,8 +51,8 @@
 			{
 				"id": "http://kevinwhalen.micro.blog/2021/08/09/i-love-this.html",
 				
-				"content_html": "<p>I love this picture of these two.</p>\n\n<p><img src=\"https://www.whalen.org/uploads/2021/0622e54ca0.jpg\" width=\"448\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I love this picture of these two.\n\n<img src=\"https://www.whalen.org/uploads/2021/0622e54ca0.jpg\" width=\"448\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I love this picture of these two.</p>\n\n<p><img src=\"uploads/2021/0622e54ca0.jpg\" width=\"448\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I love this picture of these two.\n\n<img src=\"uploads/2021/0622e54ca0.jpg\" width=\"448\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-09T23:29:00-04:00",
 				"url": "https://www.whalen.org/2021/08/09/i-love-this.html",
 				"tags": ["Photos"]
