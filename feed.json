@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://kevinwhalen.micro.blog/2021/10/31/happy-halloween.html",
+				
+				"content_html": "<p>Happy Halloween!</p>\n",
+				"content_text": "Happy Halloween!\n",
+				"date_published": "2021-10-31T21:44:22-04:00",
+				"url": "https://www.whalen.org/2021/10/31/happy-halloween.html"
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2021/10/19/bring-back-the.html",
+				
+				"content_html": "<p>Bring back the ManningCast!!</p>\n",
+				"content_text": "Bring back the ManningCast!!\n",
+				"date_published": "2021-10-19T11:23:00-04:00",
+				"url": "https://www.whalen.org/2021/10/19/bring-back-the.html"
+			},
+			{
 				"id": "http://kevinwhalen.micro.blog/2021/10/19/hello-world-from.html",
 				
 				"content_html": "<p>Hello world from Drummer.</p>\n",
