@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://kevinwhalen.micro.blog/2021/12/25/watching-dont-look.html",
+				
+				"content_html": "<p>Watching <a href=\"https://www.netflix.com/title/81252357\">Don&rsquo;t Look Up</a>. A snapshot of the times we live in with Trump, MAGA cult, and the pandemic.</p>\n",
+				"content_text": "Watching [Don't Look Up](https://www.netflix.com/title/81252357). A snapshot of the times we live in with Trump, MAGA cult, and the pandemic.\n",
+				"date_published": "2021-12-25T15:01:00-05:00",
+				"url": "https://www.whalen.org/2021/12/25/watching-dont-look.html"
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2021/12/25/happy-christmas.html",
+				
+				"content_html": "<p>Happy Christmas🎄🎅</p>\n",
+				"content_text": "Happy Christmas🎄🎅\n",
+				"date_published": "2021-12-25T13:41:52-05:00",
+				"url": "https://www.whalen.org/2021/12/25/happy-christmas.html"
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2021/12/23/i-need-to.html",
+				
+				"content_html": "<p>I need to give <a href=\"https://www.youtube.com/watch?v=nNpvWBuTfrc\">The Matrix Resurrections</a> a 2nd viewing.</p>\n",
+				"content_text": "I need to give [The Matrix Resurrections](https://www.youtube.com/watch?v=nNpvWBuTfrc) a 2nd viewing.\n",
+				"date_published": "2021-12-23T11:27:45-05:00",
+				"url": "https://www.whalen.org/2021/12/23/i-need-to.html"
+			},
+			{
 				"id": "http://kevinwhalen.micro.blog/2021/12/19/its-time-to.html",
 				
 				"content_html": "<p>It&rsquo;s time to go see <a href=\"https://www.youtube.com/watch?v=SWX5IbKlCNg&amp;t=127s\">Spider-Man: No Way Home</a>!</p>\n",
 				"content_text": "It's time to go see [Spider-Man: No Way Home](https://www.youtube.com/watch?v=SWX5IbKlCNg&t=127s)!\n",
-				"date_published": "2021-12-19T12:33:04-05:00",
+				"date_published": "2021-12-19T12:33:00-05:00",
 				"url": "https://www.whalen.org/2021/12/19/its-time-to.html"
 			},
 			{
@@ -34,8 +58,8 @@
 			{
 				"id": "http://kevinwhalen.micro.blog/2021/12/06/142304.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/528fe2dd6d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/528fe2dd6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://www.whalen.org/uploads/2021/528fe2dd6d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/528fe2dd6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-06T14:23:04-05:00",
 				"url": "https://www.whalen.org/2021/12/06/142304.html",
 				"tags": ["Photos"]
@@ -43,8 +67,8 @@
 			{
 				"id": "http://kevinwhalen.micro.blog/2021/12/04/235806.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/c63a4173a3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/c63a4173a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://www.whalen.org/uploads/2021/c63a4173a3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/c63a4173a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-04T23:58:06-05:00",
 				"url": "https://www.whalen.org/2021/12/04/235806.html",
 				"tags": ["Photos"]
