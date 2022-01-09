@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://kevinwhalen.micro.blog/2022/01/08/wordle.html",
+				
+				"content_html": "<p>Wordle 203 4/6</p>\n\n<p>⬛🟩🟩⬛🟨\n⬛🟩🟩🟩⬛\n🟩🟩🟩🟩⬛\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Wordle 203 4/6\r\n\r\n⬛🟩🟩⬛🟨\r\n⬛🟩🟩🟩⬛\r\n🟩🟩🟩🟩⬛\r\n🟩🟩🟩🟩🟩\n",
+				"date_published": "2022-01-08T21:03:06-05:00",
+				"url": "https://www.whalen.org/2022/01/08/wordle.html"
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2022/01/02/cobra-kai-season.html",
+				
+				"content_html": "<p>Cobra Kai season 4 was just awesome. What a great series.</p>\n",
+				"content_text": "Cobra Kai season 4 was just awesome. What a great series. \n",
+				"date_published": "2022-01-02T11:55:07-05:00",
+				"url": "https://www.whalen.org/2022/01/02/cobra-kai-season.html"
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2022/01/01/000549.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/f935627e01.jpg\" width=\"398\" height=\"397\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/f935627e01.jpg\" width=\"398\" height=\"397\" alt=\"\" />\n",
+				"date_published": "2022-01-01T00:05:49-05:00",
+				"url": "https://www.whalen.org/2022/01/01/000549.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2022/01/01/happy-new-year.html",
+				
+				"content_html": "<p>Happy New Year.</p>\n",
+				"content_text": "Happy New Year. \n",
+				"date_published": "2022-01-01T00:04:27-05:00",
+				"url": "https://www.whalen.org/2022/01/01/happy-new-year.html"
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2021/12/29/classic-john-madden.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=NlWbTDFjQCU\">Classic</a> John Madden.</p>\n",
+				"content_text": "[Classic](https://www.youtube.com/watch?v=NlWbTDFjQCU) John Madden.\n",
+				"date_published": "2021-12-29T15:34:14-05:00",
+				"url": "https://www.whalen.org/2021/12/29/classic-john-madden.html"
+			},
+			{
+				"id": "http://kevinwhalen.micro.blog/2021/12/28/so-sad-to.html",
+				
+				"content_html": "<p>So sad to hear about <a href=\"https://www.espn.com/nfl/story/_/id/32953839/nfl-hall-fame-coach-broadcasting-icon-john-madden-dies-85\">John Madden</a>. Madden and Summeral were always the <a href=\"https://giantswire.usatoday.com/2021/12/29/john-madden-was-voice-new-york-giants-renaissance-1980s/\">voices of Giants games</a> I watched growing up.</p>\n",
+				"content_text": "So sad to hear about [John Madden](https://www.espn.com/nfl/story/_/id/32953839/nfl-hall-fame-coach-broadcasting-icon-john-madden-dies-85). Madden and Summeral were always the [voices of Giants games](https://giantswire.usatoday.com/2021/12/29/john-madden-was-voice-new-york-giants-renaissance-1980s/) I watched growing up.\n",
+				"date_published": "2021-12-28T21:32:00-05:00",
+				"url": "https://www.whalen.org/2021/12/28/so-sad-to.html"
+			},
+			{
 				"id": "http://kevinwhalen.micro.blog/2021/12/25/watching-dont-look.html",
 				
 				"content_html": "<p>Watching <a href=\"https://www.netflix.com/title/81252357\">Don&rsquo;t Look Up</a>. A snapshot of the times we live in with Trump, MAGA cult, and the pandemic.</p>\n",
@@ -41,8 +90,8 @@
 			{
 				"id": "http://kevinwhalen.micro.blog/2021/12/07/203441.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/aed85ef0b5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/aed85ef0b5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://www.whalen.org/uploads/2021/aed85ef0b5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/aed85ef0b5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-07T20:34:41-05:00",
 				"url": "https://www.whalen.org/2021/12/07/203441.html",
 				"tags": ["Photos"]
