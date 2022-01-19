@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://kevinwhalen.micro.blog/2022/01/11/ny-giants-have.html",
+				
+				"content_html": "<p>N.Y. Giants have fired Joe Judge.</p>\n",
+				"content_text": "N.Y. Giants have fired Joe Judge.\n",
+				"date_published": "2022-01-11T17:33:54-05:00",
+				"url": "https://www.whalen.org/2022/01/11/ny-giants-have.html"
+			},
+			{
 				"id": "http://kevinwhalen.micro.blog/2022/01/08/wordle.html",
 				
 				"content_html": "<p>Wordle 203 4/6</p>\n\n<p>⬛🟩🟩⬛🟨\n⬛🟩🟩🟩⬛\n🟩🟩🟩🟩⬛\n🟩🟩🟩🟩🟩</p>\n",
