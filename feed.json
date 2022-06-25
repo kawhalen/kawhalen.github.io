@@ -59,7 +59,7 @@
 				"id": "http://kevinwhalen.micro.blog/2022/01/28/lets-go.html",
 				
 				"content_html": "<p>Let’s go!!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Let’s go!!\n\n<img src=\"https://www.whalen.org/uploads/2022/61fd066263.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Let’s go!!\n\n<img src=\"uploads/2022/61fd066263.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-28T19:36:30-04:00",
 				"url": "https://www.whalen.org/2022/01/28/lets-go.html",
 				"tags": ["Photos"]
@@ -92,7 +92,7 @@
 				"id": "http://kevinwhalen.micro.blog/2022/01/01/000549.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2022/f935627e01.jpg\" width=\"398\" height=\"397\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2022/f935627e01.jpg\" width=\"398\" height=\"397\" alt=\"\" />\n",
 				"date_published": "2022-01-01T01:05:49-04:00",
 				"url": "https://www.whalen.org/2022/01/01/000549.html",
 				"tags": ["Photos"]
@@ -157,7 +157,7 @@
 				"id": "http://kevinwhalen.micro.blog/2021/12/07/203441.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/aed85ef0b5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/aed85ef0b5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-07T21:34:41-04:00",
 				"url": "https://www.whalen.org/2021/12/07/203441.html",
 				"tags": ["Photos"]
@@ -174,7 +174,7 @@
 				"id": "http://kevinwhalen.micro.blog/2021/12/06/142304.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/528fe2dd6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/528fe2dd6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-06T15:23:04-04:00",
 				"url": "https://www.whalen.org/2021/12/06/142304.html",
 				"tags": ["Photos"]
@@ -183,7 +183,7 @@
 				"id": "http://kevinwhalen.micro.blog/2021/12/04/235806.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/c63a4173a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/c63a4173a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-05T00:58:06-04:00",
 				"url": "https://www.whalen.org/2021/12/04/235806.html",
 				"tags": ["Photos"]
@@ -192,7 +192,7 @@
 				"id": "http://kevinwhalen.micro.blog/2021/11/28/091322.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://www.whalen.org/uploads/2021/25a75027ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/25a75027ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-28T10:13:22-04:00",
 				"url": "https://www.whalen.org/2021/11/28/091322.html",
 				"tags": ["Photos"]
