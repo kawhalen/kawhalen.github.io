@@ -7,11 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://kwhalen.micro.blog/2022/07/07/heres-a-first.html",
+				
+				"content_html": "<p>Here&rsquo;s a first. I went ahead and configured Firefox with Arkenfox. And have also set up LibreWolf for comparison.</p>\n",
+				"content_text": "Here's a first. I went ahead and configured Firefox with Arkenfox. And have also set up LibreWolf for comparison.\n",
+				"date_published": "2022-07-07T18:04:23-04:00",
+				"url": "https://www.kwhalen.com/2022/07/07/heres-a-first.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/04/happy-th-of.html",
+				
+				"content_html": "<p>Happy 4th of July!</p>\n",
+				"content_text": "Happy 4th of July!\n",
+				"date_published": "2022-07-04T10:27:24-04:00",
+				"url": "https://www.kwhalen.com/2022/07/04/happy-th-of.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/03/i-for-one.html",
+				
+				"content_html": "<p>I for one loved the Obi Wan Kenobi series.</p>\n",
+				"content_text": "I for one loved the Obi Wan Kenobi series. \n",
+				"date_published": "2022-07-03T19:32:46-04:00",
+				"url": "https://www.kwhalen.com/2022/07/03/i-for-one.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/03/man-that-stranger.html",
+				
+				"content_html": "<p>Man that Stranger Things Season 4 ending was insane. Bring on Season 5!</p>\n",
+				"content_text": "Man that Stranger Things Season 4 ending was insane. Bring on Season 5!\n",
+				"date_published": "2022-07-03T17:50:38-04:00",
+				"url": "https://www.kwhalen.com/2022/07/03/man-that-stranger.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/03/reinstalled-gluon-ios.html",
+				
+				"content_html": "<p>Reinstalled Gluon iOS app after a very long time. I must say… this app is beautiful!</p>\n",
+				"content_text": "Reinstalled Gluon iOS app after a very long time. I must say… this app is beautiful!\n",
+				"date_published": "2022-07-03T12:30:18-04:00",
+				"url": "https://www.kwhalen.com/2022/07/03/reinstalled-gluon-ios.html"
+			},
+			{
 				"id": "http://kwhalen.micro.blog/2022/07/02/its-time-to.html",
 				
 				"content_html": "<p>It&rsquo;s time to watch Stranger Things Season 4 Volume 2.</p>\n",
 				"content_text": "It's time to watch Stranger Things Season 4 Volume 2.\n",
-				"date_published": "2022-07-02T01:50:22+00:00",
+				"date_published": "2022-07-01T21:50:22-04:00",
 				"url": "https://www.kwhalen.com/2022/07/02/its-time-to.html"
 			},
 			{
@@ -19,7 +59,7 @@
 				
 				"content_html": "<p>Sir?</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sir?\n\n<img src=\"uploads/2022/7f2b4f3e30.png\" width=\"563\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-06-29T02:10:02+00:00",
+				"date_published": "2022-06-28T22:10:02-04:00",
 				"url": "https://www.kwhalen.com/2022/06/28/sir.html",
 				"tags": ["Photos"]
 			},
@@ -28,7 +68,7 @@
 				
 				"content_html": "<p>I BELIEVE Cassidy Hutchinson.</p>\n",
 				"content_text": "I BELIEVE Cassidy Hutchinson.\n",
-				"date_published": "2022-06-28T18:30:31+00:00",
+				"date_published": "2022-06-28T14:30:31-04:00",
 				"url": "https://www.kwhalen.com/2022/06/28/i-believe-cassidy.html"
 			},
 			{
@@ -36,7 +76,7 @@
 				"title": "Spot on",
 				"content_html": "<p>Sotomayor: &ldquo;It elevates one individual&rsquo;s interest in personal religious exercise, in the exact time and place of that individual&rsquo;s choosing, over society&rsquo;s interest in protecting the separation between church and state, eroding the protections for religious liberty for all&rdquo;.</p>\n",
 				"content_text": "Sotomayor: \"It elevates one individual's interest in personal religious exercise, in the exact time and place of that individual's choosing, over society's interest in protecting the separation between church and state, eroding the protections for religious liberty for all\".\n",
-				"date_published": "2022-06-27T15:27:09+00:00",
+				"date_published": "2022-06-27T11:27:09-04:00",
 				"url": "https://www.kwhalen.com/2022/06/27/spot-on.html"
 			},
 			{
@@ -44,7 +84,7 @@
 				
 				"content_html": "<p>Seems simple to me.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Seems simple to me.\n\n<img src=\"uploads/2022/0328d0cd46.jpg\" width=\"600\" height=\"485\" alt=\"\" />\n",
-				"date_published": "2022-06-26T23:59:40+00:00",
+				"date_published": "2022-06-26T19:59:40-04:00",
 				"url": "https://www.kwhalen.com/2022/06/26/seems-simple-to.html",
 				"tags": ["Photos"]
 			},
@@ -53,7 +93,7 @@
 				
 				"content_html": "<p>&ldquo;This is some bullshit&rdquo;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "\"This is some bullshit\"\r\n\r\n<img src=\"uploads/2022/a1c1a345af.jpg\" width=\"600\" height=\"435\" alt=\"\" />\n",
-				"date_published": "2022-06-25T01:42:31+00:00",
+				"date_published": "2022-06-24T21:42:31-04:00",
 				"url": "https://www.kwhalen.com/2022/06/24/this-is-some.html",
 				"tags": ["Photos"]
 			},
