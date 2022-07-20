@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://kwhalen.micro.blog/2022/07/19/started-watching-season.html",
+				
+				"content_html": "<p>Started watching Season 1 of The Boys. Already hooked.</p>\n",
+				"content_text": "Started watching Season 1 of The Boys. Already hooked.\n",
+				"date_published": "2022-07-19T21:42:43-04:00",
+				"url": "https://www.kwhalen.com/2022/07/19/started-watching-season.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/17/i-liked-thor.html",
+				
+				"content_html": "<p>I liked Thor Love and Thunder. Though probably not as good as Ragnarok.</p>\n",
+				"content_text": "I liked Thor Love and Thunder. Though probably not as good as Ragnarok. \n",
+				"date_published": "2022-07-17T11:29:30-04:00",
+				"url": "https://www.kwhalen.com/2022/07/17/i-liked-thor.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/16/is-there-a.html",
+				
+				"content_html": "<p>Is there a reason why Fastmail immediately recycles email addresses?</p>\n",
+				"content_text": "Is there a reason why Fastmail immediately recycles email addresses?\n",
+				"date_published": "2022-07-16T10:54:23-04:00",
+				"url": "https://www.kwhalen.com/2022/07/16/is-there-a.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/12/i-took-the.html",
+				
+				"content_html": "<p>I took the plunge and installed the macOS Ventura Public Beta. Playing around with Stage Manager.</p>\n",
+				"content_text": "I took the plunge and installed the macOS Ventura Public Beta. Playing around with Stage Manager.\n",
+				"date_published": "2022-07-12T22:33:37-04:00",
+				"url": "https://www.kwhalen.com/2022/07/12/i-took-the.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/12/ha.html",
+				
+				"content_html": "<p>Ha!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ha!\n\n<img src=\"uploads/2022/9f6bd464e8.png\" width=\"600\" height=\"424\" alt=\"\" />\n",
+				"date_published": "2022-07-12T14:40:05-04:00",
+				"url": "https://www.kwhalen.com/2022/07/12/ha.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/12/man-proton-mail.html",
+				
+				"content_html": "<p>Man, Proton Mail is down again this morning.</p>\n",
+				"content_text": "Man, Proton Mail is down again this morning.\n",
+				"date_published": "2022-07-12T08:52:09-04:00",
+				"url": "https://www.kwhalen.com/2022/07/12/man-proton-mail.html"
+			},
+			{
 				"id": "http://kwhalen.micro.blog/2022/07/07/heres-a-first.html",
 				
 				"content_html": "<p>Here&rsquo;s a first. I went ahead and configured Firefox with Arkenfox. And have also set up LibreWolf for comparison.</p>\n",
@@ -92,7 +141,7 @@
 				"id": "http://kwhalen.micro.blog/2022/06/24/this-is-some.html",
 				
 				"content_html": "<p>&ldquo;This is some bullshit&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"This is some bullshit\"\r\n\r\n<img src=\"uploads/2022/a1c1a345af.jpg\" width=\"600\" height=\"435\" alt=\"\" />\n",
+				"content_text": "\"This is some bullshit\"\r\n\r\n<img src=\"https://www.kwhalen.com/uploads/2022/a1c1a345af.jpg\" width=\"600\" height=\"435\" alt=\"\" />\n",
 				"date_published": "2022-06-24T21:42:31-04:00",
 				"url": "https://www.kwhalen.com/2022/06/24/this-is-some.html",
 				"tags": ["Photos"]
