@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://kwhalen.micro.blog/2022/07/26/the-official-mastodon.html",
+				
+				"content_html": "<p>The official Mastodon iOS app should really support local timelines.</p>\n",
+				"content_text": "The official Mastodon iOS app should really support local timelines.\n",
+				"date_published": "2022-07-26T20:28:23-04:00",
+				"url": "https://www.kwhalen.com/2022/07/26/the-official-mastodon.html"
+			},
+			{
+				"id": "http://kwhalen.micro.blog/2022/07/22/where-was-kevin.html",
+				
+				"content_html": "<p>Where was <a href=\"https://www.thebulwark.com/where-was-kevin-mccarthy\">Kevin McCarthy</a>?</p>\n",
+				"content_text": "Where was [Kevin McCarthy](https://www.thebulwark.com/where-was-kevin-mccarthy)?\n",
+				"date_published": "2022-07-22T12:42:15-04:00",
+				"url": "https://www.kwhalen.com/2022/07/22/where-was-kevin.html"
+			},
+			{
 				"id": "http://kwhalen.micro.blog/2022/07/19/started-watching-season.html",
 				
 				"content_html": "<p>Started watching Season 1 of The Boys. Already hooked.</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://kwhalen.micro.blog/2022/07/12/ha.html",
 				
 				"content_html": "<p>Ha!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ha!\n\n<img src=\"uploads/2022/9f6bd464e8.png\" width=\"600\" height=\"424\" alt=\"\" />\n",
+				"content_text": "Ha!\n\n<img src=\"https://www.kwhalen.com/uploads/2022/9f6bd464e8.png\" width=\"600\" height=\"424\" alt=\"\" />\n",
 				"date_published": "2022-07-12T14:40:05-04:00",
 				"url": "https://www.kwhalen.com/2022/07/12/ha.html",
 				"tags": ["Photos"]
@@ -132,7 +148,7 @@
 				"id": "http://kwhalen.micro.blog/2022/06/26/seems-simple-to.html",
 				
 				"content_html": "<p>Seems simple to me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Seems simple to me.\n\n<img src=\"uploads/2022/0328d0cd46.jpg\" width=\"600\" height=\"485\" alt=\"\" />\n",
+				"content_text": "Seems simple to me.\n\n<img src=\"https://www.kwhalen.com/uploads/2022/0328d0cd46.jpg\" width=\"600\" height=\"485\" alt=\"\" />\n",
 				"date_published": "2022-06-26T19:59:40-04:00",
 				"url": "https://www.kwhalen.com/2022/06/26/seems-simple-to.html",
 				"tags": ["Photos"]
